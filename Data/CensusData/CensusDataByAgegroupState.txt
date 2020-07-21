@@ -1,0 +1,1019 @@
+"Notes"	"Age Group"	"Age Group Code"	"State"	"State Code"	Population
+	"< 1 year"	"1"	"Alabama"	"01"	1721100
+	"< 1 year"	"1"	"Alaska"	"02"	304499
+	"< 1 year"	"1"	"Arizona"	"04"	2364042
+	"< 1 year"	"1"	"Arkansas"	"05"	1072933
+	"< 1 year"	"1"	"California"	"06"	14989560
+	"< 1 year"	"1"	"Colorado"	"08"	1805468
+	"< 1 year"	"1"	"Connecticut"	"09"	1189427
+	"< 1 year"	"1"	"Delaware"	"10"	311389
+	"< 1 year"	"1"	"District of Columbia"	"11"	233623
+	"< 1 year"	"1"	"Florida"	"12"	5934667
+	"< 1 year"	"1"	"Georgia"	"13"	3618821
+	"< 1 year"	"1"	"Hawaii"	"15"	515722
+	"< 1 year"	"1"	"Idaho"	"16"	606911
+	"< 1 year"	"1"	"Illinois"	"17"	4941456
+	"< 1 year"	"1"	"Indiana"	"18"	2428752
+	"< 1 year"	"1"	"Iowa"	"19"	1109207
+	"< 1 year"	"1"	"Kansas"	"20"	1112539
+	"< 1 year"	"1"	"Kentucky"	"21"	1572495
+	"< 1 year"	"1"	"Louisiana"	"22"	1847295
+	"< 1 year"	"1"	"Maine"	"23"	399804
+	"< 1 year"	"1"	"Maryland"	"24"	2123050
+	"< 1 year"	"1"	"Massachusetts"	"25"	2236072
+	"< 1 year"	"1"	"Michigan"	"26"	3645981
+	"< 1 year"	"1"	"Minnesota"	"27"	1957661
+	"< 1 year"	"1"	"Mississippi"	"28"	1170223
+	"< 1 year"	"1"	"Missouri"	"29"	2170204
+	"< 1 year"	"1"	"Montana"	"30"	335889
+	"< 1 year"	"1"	"Nebraska"	"31"	718517
+	"< 1 year"	"1"	"Nevada"	"32"	913668
+	"< 1 year"	"1"	"New Hampshire"	"33"	408853
+	"< 1 year"	"1"	"New Jersey"	"34"	3175027
+	"< 1 year"	"1"	"New Mexico"	"35"	784089
+	"< 1 year"	"1"	"New York"	"36"	7200943
+	"< 1 year"	"1"	"North Carolina"	"37"	3302690
+	"< 1 year"	"1"	"North Dakota"	"38"	257714
+	"< 1 year"	"1"	"Ohio"	"39"	4245629
+	"< 1 year"	"1"	"Oklahoma"	"40"	1436772
+	"< 1 year"	"1"	"Oregon"	"41"	1292568
+	"< 1 year"	"1"	"Pennsylvania"	"42"	4223138
+	"< 1 year"	"1"	"Rhode Island"	"44"	354768
+	"< 1 year"	"1"	"South Carolina"	"45"	1617507
+	"< 1 year"	"1"	"South Dakota"	"46"	322336
+	"< 1 year"	"1"	"Tennessee"	"47"	2228851
+	"< 1 year"	"1"	"Texas"	"48"	10367916
+	"< 1 year"	"1"	"Utah"	"49"	1342222
+	"< 1 year"	"1"	"Vermont"	"50"	187901
+	"< 1 year"	"1"	"Virginia"	"51"	2835231
+	"< 1 year"	"1"	"Washington"	"53"	2404065
+	"< 1 year"	"1"	"West Virginia"	"54"	597606
+	"< 1 year"	"1"	"Wisconsin"	"55"	1951139
+	"< 1 year"	"1"	"Wyoming"	"56"	201604
+"Total"	"< 1 year"	"1"			114089544
+	"1-4 years"	"1-4"	"Alabama"	"01"	6888324
+	"1-4 years"	"1-4"	"Alaska"	"02"	1206609
+	"1-4 years"	"1-4"	"Arizona"	"04"	9339051
+	"1-4 years"	"1-4"	"Arkansas"	"05"	4302324
+	"1-4 years"	"1-4"	"California"	"06"	59652821
+	"1-4 years"	"1-4"	"Colorado"	"08"	7210785
+	"1-4 years"	"1-4"	"Connecticut"	"09"	4965497
+	"1-4 years"	"1-4"	"Delaware"	"10"	1240525
+	"1-4 years"	"1-4"	"District of Columbia"	"11"	846996
+	"1-4 years"	"1-4"	"Florida"	"12"	23711257
+	"1-4 years"	"1-4"	"Georgia"	"13"	14391116
+	"1-4 years"	"1-4"	"Hawaii"	"15"	2008326
+	"1-4 years"	"1-4"	"Idaho"	"16"	2425657
+	"1-4 years"	"1-4"	"Illinois"	"17"	19830574
+	"1-4 years"	"1-4"	"Indiana"	"18"	9770988
+	"1-4 years"	"1-4"	"Iowa"	"19"	4477154
+	"1-4 years"	"1-4"	"Kansas"	"20"	4469012
+	"1-4 years"	"1-4"	"Kentucky"	"21"	6268525
+	"1-4 years"	"1-4"	"Louisiana"	"22"	7369038
+	"1-4 years"	"1-4"	"Maine"	"23"	1679417
+	"1-4 years"	"1-4"	"Maryland"	"24"	8502014
+	"1-4 years"	"1-4"	"Massachusetts"	"25"	9040611
+	"1-4 years"	"1-4"	"Michigan"	"26"	14992428
+	"1-4 years"	"1-4"	"Minnesota"	"27"	7925751
+	"1-4 years"	"1-4"	"Mississippi"	"28"	4686724
+	"1-4 years"	"1-4"	"Missouri"	"29"	8745955
+	"1-4 years"	"1-4"	"Montana"	"30"	1368843
+	"1-4 years"	"1-4"	"Nebraska"	"31"	2874719
+	"1-4 years"	"1-4"	"Nevada"	"32"	3625959
+	"1-4 years"	"1-4"	"New Hampshire"	"33"	1731559
+	"1-4 years"	"1-4"	"New Jersey"	"34"	12903428
+	"1-4 years"	"1-4"	"New Mexico"	"35"	3147432
+	"1-4 years"	"1-4"	"New York"	"36"	28499214
+	"1-4 years"	"1-4"	"North Carolina"	"37"	13138095
+	"1-4 years"	"1-4"	"North Dakota"	"38"	1021921
+	"1-4 years"	"1-4"	"Ohio"	"39"	17243446
+	"1-4 years"	"1-4"	"Oklahoma"	"40"	5729219
+	"1-4 years"	"1-4"	"Oregon"	"41"	5227797
+	"1-4 years"	"1-4"	"Pennsylvania"	"42"	17320804
+	"1-4 years"	"1-4"	"Rhode Island"	"44"	1443208
+	"1-4 years"	"1-4"	"South Carolina"	"45"	6500425
+	"1-4 years"	"1-4"	"South Dakota"	"46"	1289930
+	"1-4 years"	"1-4"	"Tennessee"	"47"	8920085
+	"1-4 years"	"1-4"	"Texas"	"48"	40764523
+	"1-4 years"	"1-4"	"Utah"	"49"	5164175
+	"1-4 years"	"1-4"	"Vermont"	"50"	798705
+	"1-4 years"	"1-4"	"Virginia"	"51"	11297712
+	"1-4 years"	"1-4"	"Washington"	"53"	9621197
+	"1-4 years"	"1-4"	"West Virginia"	"54"	2409038
+	"1-4 years"	"1-4"	"Wisconsin"	"55"	8089454
+	"1-4 years"	"1-4"	"Wyoming"	"56"	812861
+"Total"	"1-4 years"	"1-4"			456891228
+	"5-9 years"	"5-9"	"Alabama"	"01"	8770501
+	"5-9 years"	"5-9"	"Alaska"	"02"	1508402
+	"5-9 years"	"5-9"	"Arizona"	"04"	11429072
+	"5-9 years"	"5-9"	"Arkansas"	"05"	5448475
+	"5-9 years"	"5-9"	"California"	"06"	72800010
+	"5-9 years"	"5-9"	"Colorado"	"08"	9112778
+	"5-9 years"	"5-9"	"Connecticut"	"09"	6520907
+	"5-9 years"	"5-9"	"Delaware"	"10"	1563195
+	"5-9 years"	"5-9"	"District of Columbia"	"11"	910129
+	"5-9 years"	"5-9"	"Florida"	"12"	29874572
+	"5-9 years"	"5-9"	"Georgia"	"13"	18034964
+	"5-9 years"	"5-9"	"Hawaii"	"15"	2402576
+	"5-9 years"	"5-9"	"Idaho"	"16"	3102397
+	"5-9 years"	"5-9"	"Illinois"	"17"	24812116
+	"5-9 years"	"5-9"	"Indiana"	"18"	12449178
+	"5-9 years"	"5-9"	"Iowa"	"19"	5803537
+	"5-9 years"	"5-9"	"Kansas"	"20"	5701321
+	"5-9 years"	"5-9"	"Kentucky"	"21"	7944691
+	"5-9 years"	"5-9"	"Louisiana"	"22"	9291777
+	"5-9 years"	"5-9"	"Maine"	"23"	2295828
+	"5-9 years"	"5-9"	"Maryland"	"24"	10720816
+	"5-9 years"	"5-9"	"Massachusetts"	"25"	11542985
+	"5-9 years"	"5-9"	"Michigan"	"26"	19558666
+	"5-9 years"	"5-9"	"Minnesota"	"27"	10234154
+	"5-9 years"	"5-9"	"Mississippi"	"28"	5955948
+	"5-9 years"	"5-9"	"Missouri"	"29"	11209041
+	"5-9 years"	"5-9"	"Montana"	"30"	1805385
+	"5-9 years"	"5-9"	"Nebraska"	"31"	3641842
+	"5-9 years"	"5-9"	"Nevada"	"32"	4452357
+	"5-9 years"	"5-9"	"New Hampshire"	"33"	2347170
+	"5-9 years"	"5-9"	"New Jersey"	"34"	16250473
+	"5-9 years"	"5-9"	"New Mexico"	"35"	3987401
+	"5-9 years"	"5-9"	"New York"	"36"	35291351
+	"5-9 years"	"5-9"	"North Carolina"	"37"	16504645
+	"5-9 years"	"5-9"	"North Dakota"	"38"	1290091
+	"5-9 years"	"5-9"	"Ohio"	"39"	22259847
+	"5-9 years"	"5-9"	"Oklahoma"	"40"	7261883
+	"5-9 years"	"5-9"	"Oregon"	"41"	6707008
+	"5-9 years"	"5-9"	"Pennsylvania"	"42"	22581227
+	"5-9 years"	"5-9"	"Rhode Island"	"44"	1854309
+	"5-9 years"	"5-9"	"South Carolina"	"45"	8256043
+	"5-9 years"	"5-9"	"South Dakota"	"46"	1634951
+	"5-9 years"	"5-9"	"Tennessee"	"47"	11315289
+	"5-9 years"	"5-9"	"Texas"	"48"	50064100
+	"5-9 years"	"5-9"	"Utah"	"49"	6248511
+	"5-9 years"	"5-9"	"Vermont"	"50"	1095002
+	"5-9 years"	"5-9"	"Virginia"	"51"	14143894
+	"5-9 years"	"5-9"	"Washington"	"53"	12206527
+	"5-9 years"	"5-9"	"West Virginia"	"54"	3113970
+	"5-9 years"	"5-9"	"Wisconsin"	"55"	10726292
+	"5-9 years"	"5-9"	"Wyoming"	"56"	1059750
+"Total"	"5-9 years"	"5-9"			575097354
+	"10-14 years"	"10-14"	"Alabama"	"01"	9158217
+	"10-14 years"	"10-14"	"Alaska"	"02"	1508085
+	"10-14 years"	"10-14"	"Arizona"	"04"	11432017
+	"10-14 years"	"10-14"	"Arkansas"	"05"	5615573
+	"10-14 years"	"10-14"	"California"	"06"	72770825
+	"10-14 years"	"10-14"	"Colorado"	"08"	9137536
+	"10-14 years"	"10-14"	"Connecticut"	"09"	6671099
+	"10-14 years"	"10-14"	"Delaware"	"10"	1583303
+	"10-14 years"	"10-14"	"District of Columbia"	"11"	823370
+	"10-14 years"	"10-14"	"Florida"	"12"	30715268
+	"10-14 years"	"10-14"	"Georgia"	"13"	18261373
+	"10-14 years"	"10-14"	"Hawaii"	"15"	2401857
+	"10-14 years"	"10-14"	"Idaho"	"16"	3212549
+	"10-14 years"	"10-14"	"Illinois"	"17"	25304539
+	"10-14 years"	"10-14"	"Indiana"	"18"	12798952
+	"10-14 years"	"10-14"	"Iowa"	"19"	6023487
+	"10-14 years"	"10-14"	"Kansas"	"20"	5777136
+	"10-14 years"	"10-14"	"Kentucky"	"21"	8202946
+	"10-14 years"	"10-14"	"Louisiana"	"22"	9601253
+	"10-14 years"	"10-14"	"Maine"	"23"	2451080
+	"10-14 years"	"10-14"	"Maryland"	"24"	10832885
+	"10-14 years"	"10-14"	"Massachusetts"	"25"	11689944
+	"10-14 years"	"10-14"	"Michigan"	"26"	20236529
+	"10-14 years"	"10-14"	"Minnesota"	"27"	10448420
+	"10-14 years"	"10-14"	"Mississippi"	"28"	6206913
+	"10-14 years"	"10-14"	"Missouri"	"29"	11556854
+	"10-14 years"	"10-14"	"Montana"	"30"	1908575
+	"10-14 years"	"10-14"	"Nebraska"	"31"	3692270
+	"10-14 years"	"10-14"	"Nevada"	"32"	4389042
+	"10-14 years"	"10-14"	"New Hampshire"	"33"	2464152
+	"10-14 years"	"10-14"	"New Jersey"	"34"	16442202
+	"10-14 years"	"10-14"	"New Mexico"	"35"	4118163
+	"10-14 years"	"10-14"	"New York"	"36"	35840562
+	"10-14 years"	"10-14"	"North Carolina"	"37"	16635746
+	"10-14 years"	"10-14"	"North Dakota"	"38"	1322746
+	"10-14 years"	"10-14"	"Ohio"	"39"	23000637
+	"10-14 years"	"10-14"	"Oklahoma"	"40"	7388367
+	"10-14 years"	"10-14"	"Oregon"	"41"	6902450
+	"10-14 years"	"10-14"	"Pennsylvania"	"42"	23549987
+	"10-14 years"	"10-14"	"Rhode Island"	"44"	1896820
+	"10-14 years"	"10-14"	"South Carolina"	"45"	8436979
+	"10-14 years"	"10-14"	"South Dakota"	"46"	1673212
+	"10-14 years"	"10-14"	"Tennessee"	"47"	11593347
+	"10-14 years"	"10-14"	"Texas"	"48"	50281767
+	"10-14 years"	"10-14"	"Utah"	"49"	6189282
+	"10-14 years"	"10-14"	"Vermont"	"50"	1173273
+	"10-14 years"	"10-14"	"Virginia"	"51"	14288062
+	"10-14 years"	"10-14"	"Washington"	"53"	12370813
+	"10-14 years"	"10-14"	"West Virginia"	"54"	3350869
+	"10-14 years"	"10-14"	"Wisconsin"	"55"	11187138
+	"10-14 years"	"10-14"	"Wyoming"	"56"	1111031
+"Total"	"10-14 years"	"10-14"			585629502
+	"15-19 years"	"15-19"	"Alabama"	"01"	9428177
+	"15-19 years"	"15-19"	"Alaska"	"02"	1411496
+	"15-19 years"	"15-19"	"Arizona"	"04"	11283765
+	"15-19 years"	"15-19"	"Arkansas"	"05"	5672072
+	"15-19 years"	"15-19"	"California"	"06"	71713285
+	"15-19 years"	"15-19"	"Colorado"	"08"	8976521
+	"15-19 years"	"15-19"	"Connecticut"	"09"	6698580
+	"15-19 years"	"15-19"	"Delaware"	"10"	1636311
+	"15-19 years"	"15-19"	"District of Columbia"	"11"	1066319
+	"15-19 years"	"15-19"	"Florida"	"12"	30865221
+	"15-19 years"	"15-19"	"Georgia"	"13"	18164830
+	"15-19 years"	"15-19"	"Hawaii"	"15"	2340021
+	"15-19 years"	"15-19"	"Idaho"	"16"	3179267
+	"15-19 years"	"15-19"	"Illinois"	"17"	25281563
+	"15-19 years"	"15-19"	"Indiana"	"18"	13086618
+	"15-19 years"	"15-19"	"Iowa"	"19"	6269653
+	"15-19 years"	"15-19"	"Kansas"	"20"	5781201
+	"15-19 years"	"15-19"	"Kentucky"	"21"	8369610
+	"15-19 years"	"15-19"	"Louisiana"	"22"	9670959
+	"15-19 years"	"15-19"	"Maine"	"23"	2527950
+	"15-19 years"	"15-19"	"Maryland"	"24"	10609639
+	"15-19 years"	"15-19"	"Massachusetts"	"25"	12427891
+	"15-19 years"	"15-19"	"Michigan"	"26"	20523471
+	"15-19 years"	"15-19"	"Minnesota"	"27"	10314136
+	"15-19 years"	"15-19"	"Mississippi"	"28"	6417524
+	"15-19 years"	"15-19"	"Missouri"	"29"	11629952
+	"15-19 years"	"15-19"	"Montana"	"30"	1948589
+	"15-19 years"	"15-19"	"Nebraska"	"31"	3727312
+	"15-19 years"	"15-19"	"Nevada"	"32"	4092216
+	"15-19 years"	"15-19"	"New Hampshire"	"33"	2502293
+	"15-19 years"	"15-19"	"New Jersey"	"34"	15945073
+	"15-19 years"	"15-19"	"New Mexico"	"35"	4084877
+	"15-19 years"	"15-19"	"New York"	"36"	36990839
+	"15-19 years"	"15-19"	"North Carolina"	"37"	16963596
+	"15-19 years"	"15-19"	"North Dakota"	"38"	1444130
+	"15-19 years"	"15-19"	"Ohio"	"39"	23203021
+	"15-19 years"	"15-19"	"Oklahoma"	"40"	7469623
+	"15-19 years"	"15-19"	"Oregon"	"41"	6926956
+	"15-19 years"	"15-19"	"Pennsylvania"	"42"	24602568
+	"15-19 years"	"15-19"	"Rhode Island"	"44"	2139835
+	"15-19 years"	"15-19"	"South Carolina"	"45"	8778798
+	"15-19 years"	"15-19"	"South Dakota"	"46"	1694662
+	"15-19 years"	"15-19"	"Tennessee"	"47"	11675675
+	"15-19 years"	"15-19"	"Texas"	"48"	49185133
+	"15-19 years"	"15-19"	"Utah"	"49"	6145742
+	"15-19 years"	"15-19"	"Vermont"	"50"	1288102
+	"15-19 years"	"15-19"	"Virginia"	"51"	14556340
+	"15-19 years"	"15-19"	"Washington"	"53"	12186739
+	"15-19 years"	"15-19"	"West Virginia"	"54"	3593593
+	"15-19 years"	"15-19"	"Wisconsin"	"55"	11326966
+	"15-19 years"	"15-19"	"Wyoming"	"56"	1125348
+"Total"	"15-19 years"	"15-19"			588944058
+	"20-24 years"	"20-24"	"Alabama"	"01"	9489243
+	"20-24 years"	"20-24"	"Alaska"	"02"	1396844
+	"20-24 years"	"20-24"	"Arizona"	"04"	11550700
+	"20-24 years"	"20-24"	"Arkansas"	"05"	5557839
+	"20-24 years"	"20-24"	"California"	"06"	74635327
+	"20-24 years"	"20-24"	"Colorado"	"08"	9303919
+	"20-24 years"	"20-24"	"Connecticut"	"09"	6324990
+	"20-24 years"	"20-24"	"Delaware"	"10"	1658752
+	"20-24 years"	"20-24"	"District of Columbia"	"11"	1593789
+	"20-24 years"	"20-24"	"Florida"	"12"	31519090
+	"20-24 years"	"20-24"	"Georgia"	"13"	18338930
+	"20-24 years"	"20-24"	"Hawaii"	"15"	2659223
+	"20-24 years"	"20-24"	"Idaho"	"16"	2864819
+	"20-24 years"	"20-24"	"Illinois"	"17"	25153329
+	"20-24 years"	"20-24"	"Indiana"	"18"	13044791
+	"20-24 years"	"20-24"	"Iowa"	"19"	6183602
+	"20-24 years"	"20-24"	"Kansas"	"20"	5782995
+	"20-24 years"	"20-24"	"Kentucky"	"21"	8533082
+	"20-24 years"	"20-24"	"Louisiana"	"22"	9696904
+	"20-24 years"	"20-24"	"Maine"	"23"	2258907
+	"20-24 years"	"20-24"	"Maryland"	"24"	10383380
+	"20-24 years"	"20-24"	"Massachusetts"	"25"	13191164
+	"20-24 years"	"20-24"	"Michigan"	"26"	19928984
+	"20-24 years"	"20-24"	"Minnesota"	"27"	9831526
+	"20-24 years"	"20-24"	"Mississippi"	"28"	6281864
+	"20-24 years"	"20-24"	"Missouri"	"29"	11462024
+	"20-24 years"	"20-24"	"Montana"	"30"	1850084
+	"20-24 years"	"20-24"	"Nebraska"	"31"	3640438
+	"20-24 years"	"20-24"	"Nevada"	"32"	4224252
+	"20-24 years"	"20-24"	"New Hampshire"	"33"	2323123
+	"20-24 years"	"20-24"	"New Jersey"	"34"	15158122
+	"20-24 years"	"20-24"	"New Mexico"	"35"	3849033
+	"20-24 years"	"20-24"	"New York"	"36"	38632622
+	"20-24 years"	"20-24"	"North Carolina"	"37"	17997775
+	"20-24 years"	"20-24"	"North Dakota"	"38"	1649331
+	"20-24 years"	"20-24"	"Ohio"	"39"	22308893
+	"20-24 years"	"20-24"	"Oklahoma"	"40"	7569879
+	"20-24 years"	"20-24"	"Oregon"	"41"	6898166
+	"20-24 years"	"20-24"	"Pennsylvania"	"42"	23985415
+	"20-24 years"	"20-24"	"Rhode Island"	"44"	2291185
+	"20-24 years"	"20-24"	"South Carolina"	"45"	8996744
+	"20-24 years"	"20-24"	"South Dakota"	"46"	1605445
+	"20-24 years"	"20-24"	"Tennessee"	"47"	11951003
+	"20-24 years"	"20-24"	"Texas"	"48"	48782741
+	"20-24 years"	"20-24"	"Utah"	"49"	6319300
+	"20-24 years"	"20-24"	"Vermont"	"50"	1242427
+	"20-24 years"	"20-24"	"Virginia"	"51"	15534433
+	"20-24 years"	"20-24"	"Washington"	"53"	12322667
+	"20-24 years"	"20-24"	"West Virginia"	"54"	3574116
+	"20-24 years"	"20-24"	"Wisconsin"	"55"	10963409
+	"20-24 years"	"20-24"	"Wyoming"	"56"	1072794
+"Total"	"20-24 years"	"20-24"			593369414
+	"25-29 years"	"25-29"	"Alabama"	"01"	8940387
+	"25-29 years"	"25-29"	"Alaska"	"02"	1441137
+	"25-29 years"	"25-29"	"Arizona"	"04"	11721569
+	"25-29 years"	"25-29"	"Arkansas"	"05"	5309389
+	"25-29 years"	"25-29"	"California"	"06"	79446677
+	"25-29 years"	"25-29"	"Colorado"	"08"	10009300
+	"25-29 years"	"25-29"	"Connecticut"	"09"	6389150
+	"25-29 years"	"25-29"	"Delaware"	"10"	1678346
+	"25-29 years"	"25-29"	"District of Columbia"	"11"	1905753
+	"25-29 years"	"25-29"	"Florida"	"12"	32439141
+	"25-29 years"	"25-29"	"Georgia"	"13"	18817139
+	"25-29 years"	"25-29"	"Hawaii"	"15"	2737238
+	"25-29 years"	"25-29"	"Idaho"	"16"	2657074
+	"25-29 years"	"25-29"	"Illinois"	"17"	26138075
+	"25-29 years"	"25-29"	"Indiana"	"18"	12175610
+	"25-29 years"	"25-29"	"Iowa"	"19"	5447664
+	"25-29 years"	"25-29"	"Kansas"	"20"	5312811
+	"25-29 years"	"25-29"	"Kentucky"	"21"	8213877
+	"25-29 years"	"25-29"	"Louisiana"	"22"	9270175
+	"25-29 years"	"25-29"	"Maine"	"23"	2206940
+	"25-29 years"	"25-29"	"Maryland"	"24"	11207701
+	"25-29 years"	"25-29"	"Massachusetts"	"25"	13694018
+	"25-29 years"	"25-29"	"Michigan"	"26"	18737729
+	"25-29 years"	"25-29"	"Minnesota"	"27"	10053514
+	"25-29 years"	"25-29"	"Mississippi"	"28"	5615298
+	"25-29 years"	"25-29"	"Missouri"	"29"	11159968
+	"25-29 years"	"25-29"	"Montana"	"30"	1624285
+	"25-29 years"	"25-29"	"Nebraska"	"31"	3392366
+	"25-29 years"	"25-29"	"Nevada"	"32"	4874983
+	"25-29 years"	"25-29"	"New Hampshire"	"33"	2217337
+	"25-29 years"	"25-29"	"New Jersey"	"34"	16377439
+	"25-29 years"	"25-29"	"New Mexico"	"35"	3673948
+	"25-29 years"	"25-29"	"New York"	"36"	40742216
+	"25-29 years"	"25-29"	"North Carolina"	"37"	17770345
+	"25-29 years"	"25-29"	"North Dakota"	"38"	1339713
+	"25-29 years"	"25-29"	"Ohio"	"39"	21967237
+	"25-29 years"	"25-29"	"Oklahoma"	"40"	7067387
+	"25-29 years"	"25-29"	"Oregon"	"41"	7093170
+	"25-29 years"	"25-29"	"Pennsylvania"	"42"	23235528
+	"25-29 years"	"25-29"	"Rhode Island"	"44"	2087107
+	"25-29 years"	"25-29"	"South Carolina"	"45"	8589325
+	"25-29 years"	"25-29"	"South Dakota"	"46"	1456175
+	"25-29 years"	"25-29"	"Tennessee"	"47"	12012295
+	"25-29 years"	"25-29"	"Texas"	"48"	49667484
+	"25-29 years"	"25-29"	"Utah"	"49"	5592002
+	"25-29 years"	"25-29"	"Vermont"	"50"	1050700
+	"25-29 years"	"25-29"	"Virginia"	"51"	15690186
+	"25-29 years"	"25-29"	"Washington"	"53"	12969959
+	"25-29 years"	"25-29"	"West Virginia"	"54"	3228442
+	"25-29 years"	"25-29"	"Wisconsin"	"55"	10317785
+	"25-29 years"	"25-29"	"Wyoming"	"56"	980047
+"Total"	"25-29 years"	"25-29"			597743141
+	"30-34 years"	"30-34"	"Alabama"	"01"	8915543
+	"30-34 years"	"30-34"	"Alaska"	"02"	1521119
+	"30-34 years"	"30-34"	"Arizona"	"04"	11503767
+	"30-34 years"	"30-34"	"Arkansas"	"05"	5302600
+	"30-34 years"	"30-34"	"California"	"06"	79694809
+	"30-34 years"	"30-34"	"Colorado"	"08"	10403981
+	"30-34 years"	"30-34"	"Connecticut"	"09"	7006427
+	"30-34 years"	"30-34"	"Delaware"	"10"	1671322
+	"30-34 years"	"30-34"	"District of Columbia"	"11"	1691574
+	"30-34 years"	"30-34"	"Florida"	"12"	33539515
+	"30-34 years"	"30-34"	"Georgia"	"13"	19265922
+	"30-34 years"	"30-34"	"Hawaii"	"15"	2735313
+	"30-34 years"	"30-34"	"Idaho"	"16"	2712126
+	"30-34 years"	"30-34"	"Illinois"	"17"	26876977
+	"30-34 years"	"30-34"	"Indiana"	"18"	12426857
+	"30-34 years"	"30-34"	"Iowa"	"19"	5622067
+	"30-34 years"	"30-34"	"Kansas"	"20"	5455780
+	"30-34 years"	"30-34"	"Kentucky"	"21"	8401427
+	"30-34 years"	"30-34"	"Louisiana"	"22"	9153237
+	"30-34 years"	"30-34"	"Maine"	"23"	2439297
+	"30-34 years"	"30-34"	"Maryland"	"24"	11939057
+	"30-34 years"	"30-34"	"Massachusetts"	"25"	13712713
+	"30-34 years"	"30-34"	"Michigan"	"26"	19533858
+	"30-34 years"	"30-34"	"Minnesota"	"27"	10697613
+	"30-34 years"	"30-34"	"Mississippi"	"28"	5548352
+	"30-34 years"	"30-34"	"Missouri"	"29"	11446926
+	"30-34 years"	"30-34"	"Montana"	"30"	1720145
+	"30-34 years"	"30-34"	"Nebraska"	"31"	3525587
+	"30-34 years"	"30-34"	"Nevada"	"32"	5009831
+	"30-34 years"	"30-34"	"New Hampshire"	"33"	2497496
+	"30-34 years"	"30-34"	"New Jersey"	"34"	18016761
+	"30-34 years"	"30-34"	"New Mexico"	"35"	3742717
+	"30-34 years"	"30-34"	"New York"	"36"	41100315
+	"30-34 years"	"30-34"	"North Carolina"	"37"	17950986
+	"30-34 years"	"30-34"	"North Dakota"	"38"	1294187
+	"30-34 years"	"30-34"	"Ohio"	"39"	22460051
+	"30-34 years"	"30-34"	"Oklahoma"	"40"	7093443
+	"30-34 years"	"30-34"	"Oregon"	"41"	7367816
+	"30-34 years"	"30-34"	"Pennsylvania"	"42"	23821157
+	"30-34 years"	"30-34"	"Rhode Island"	"44"	2080420
+	"30-34 years"	"30-34"	"South Carolina"	"45"	8505464
+	"30-34 years"	"30-34"	"South Dakota"	"46"	1480365
+	"30-34 years"	"30-34"	"Tennessee"	"47"	12100404
+	"30-34 years"	"30-34"	"Texas"	"48"	50288293
+	"30-34 years"	"30-34"	"Utah"	"49"	5235464
+	"30-34 years"	"30-34"	"Vermont"	"50"	1134506
+	"30-34 years"	"30-34"	"Virginia"	"51"	16169111
+	"30-34 years"	"30-34"	"Washington"	"53"	13516525
+	"30-34 years"	"30-34"	"West Virginia"	"54"	3360414
+	"30-34 years"	"30-34"	"Wisconsin"	"55"	10916204
+	"30-34 years"	"30-34"	"Wyoming"	"56"	1026273
+"Total"	"30-34 years"	"30-34"			610632114
+	"35-39 years"	"35-39"	"Alabama"	"01"	9192405
+	"35-39 years"	"35-39"	"Alaska"	"02"	1524335
+	"35-39 years"	"35-39"	"Arizona"	"04"	11258798
+	"35-39 years"	"35-39"	"Arkansas"	"05"	5394584
+	"35-39 years"	"35-39"	"California"	"06"	77446868
+	"35-39 years"	"35-39"	"Colorado"	"08"	10369854
+	"35-39 years"	"35-39"	"Connecticut"	"09"	7388822
+	"35-39 years"	"35-39"	"Delaware"	"10"	1704779
+	"35-39 years"	"35-39"	"District of Columbia"	"11"	1386530
+	"35-39 years"	"35-39"	"Florida"	"12"	34362531
+	"35-39 years"	"35-39"	"Georgia"	"13"	19289735
+	"35-39 years"	"35-39"	"Hawaii"	"15"	2704062
+	"35-39 years"	"35-39"	"Idaho"	"16"	2781411
+	"35-39 years"	"35-39"	"Illinois"	"17"	26605886
+	"35-39 years"	"35-39"	"Indiana"	"18"	12840437
+	"35-39 years"	"35-39"	"Iowa"	"19"	5833357
+	"35-39 years"	"35-39"	"Kansas"	"20"	5537946
+	"35-39 years"	"35-39"	"Kentucky"	"21"	8630579
+	"35-39 years"	"35-39"	"Louisiana"	"22"	9145708
+	"35-39 years"	"35-39"	"Maine"	"23"	2668323
+	"35-39 years"	"35-39"	"Maryland"	"24"	12141647
+	"35-39 years"	"35-39"	"Massachusetts"	"25"	13739716
+	"35-39 years"	"35-39"	"Michigan"	"26"	20322256
+	"35-39 years"	"35-39"	"Minnesota"	"27"	10780379
+	"35-39 years"	"35-39"	"Mississippi"	"28"	5662304
+	"35-39 years"	"35-39"	"Missouri"	"29"	11604189
+	"35-39 years"	"35-39"	"Montana"	"30"	1836108
+	"35-39 years"	"35-39"	"Nebraska"	"31"	3529112
+	"35-39 years"	"35-39"	"Nevada"	"32"	4885650
+	"35-39 years"	"35-39"	"New Hampshire"	"33"	2727596
+	"35-39 years"	"35-39"	"New Jersey"	"34"	18719165
+	"35-39 years"	"35-39"	"New Mexico"	"35"	3766514
+	"35-39 years"	"35-39"	"New York"	"36"	40636429
+	"35-39 years"	"35-39"	"North Carolina"	"37"	18266992
+	"35-39 years"	"35-39"	"North Dakota"	"38"	1297954
+	"35-39 years"	"35-39"	"Ohio"	"39"	23332255
+	"35-39 years"	"35-39"	"Oklahoma"	"40"	7104185
+	"35-39 years"	"35-39"	"Oregon"	"41"	7509458
+	"35-39 years"	"35-39"	"Pennsylvania"	"42"	25072178
+	"35-39 years"	"35-39"	"Rhode Island"	"44"	2167616
+	"35-39 years"	"35-39"	"South Carolina"	"45"	8661281
+	"35-39 years"	"35-39"	"South Dakota"	"46"	1507659
+	"35-39 years"	"35-39"	"Tennessee"	"47"	12329710
+	"35-39 years"	"35-39"	"Texas"	"48"	49162563
+	"35-39 years"	"35-39"	"Utah"	"49"	4851023
+	"35-39 years"	"35-39"	"Vermont"	"50"	1253619
+	"35-39 years"	"35-39"	"Virginia"	"51"	16365433
+	"35-39 years"	"35-39"	"Washington"	"53"	13627142
+	"35-39 years"	"35-39"	"West Virginia"	"54"	3624134
+	"35-39 years"	"35-39"	"Wisconsin"	"55"	11314768
+	"35-39 years"	"35-39"	"Wyoming"	"56"	1070935
+"Total"	"35-39 years"	"35-39"			614936920
+	"40-44 years"	"40-44"	"Alabama"	"01"	9256331
+	"40-44 years"	"40-44"	"Alaska"	"02"	1498857
+	"40-44 years"	"40-44"	"Arizona"	"04"	10866803
+	"40-44 years"	"40-44"	"Arkansas"	"05"	5381714
+	"40-44 years"	"40-44"	"California"	"06"	73950360
+	"40-44 years"	"40-44"	"Colorado"	"08"	10102906
+	"40-44 years"	"40-44"	"Connecticut"	"09"	7571723
+	"40-44 years"	"40-44"	"Delaware"	"10"	1689699
+	"40-44 years"	"40-44"	"District of Columbia"	"11"	1192221
+	"40-44 years"	"40-44"	"Florida"	"12"	34554559
+	"40-44 years"	"40-44"	"Georgia"	"13"	18837472
+	"40-44 years"	"40-44"	"Hawaii"	"15"	2642983
+	"40-44 years"	"40-44"	"Idaho"	"16"	2739892
+	"40-44 years"	"40-44"	"Illinois"	"17"	25986693
+	"40-44 years"	"40-44"	"Indiana"	"18"	12827251
+	"40-44 years"	"40-44"	"Iowa"	"19"	5891560
+	"40-44 years"	"40-44"	"Kansas"	"20"	5467546
+	"40-44 years"	"40-44"	"Kentucky"	"21"	8626794
+	"40-44 years"	"40-44"	"Louisiana"	"22"	8976338
+	"40-44 years"	"40-44"	"Maine"	"23"	2807402
+	"40-44 years"	"40-44"	"Maryland"	"24"	12128351
+	"40-44 years"	"40-44"	"Massachusetts"	"25"	13710491
+	"40-44 years"	"40-44"	"Michigan"	"26"	20627183
+	"40-44 years"	"40-44"	"Minnesota"	"27"	10636787
+	"40-44 years"	"40-44"	"Mississippi"	"28"	5619151
+	"40-44 years"	"40-44"	"Missouri"	"29"	11548199
+	"40-44 years"	"40-44"	"Montana"	"30"	1906702
+	"40-44 years"	"40-44"	"Nebraska"	"31"	3486167
+	"40-44 years"	"40-44"	"Nevada"	"32"	4723704
+	"40-44 years"	"40-44"	"New Hampshire"	"33"	2844784
+	"40-44 years"	"40-44"	"New Jersey"	"34"	18749583
+	"40-44 years"	"40-44"	"New Mexico"	"35"	3739501
+	"40-44 years"	"40-44"	"New York"	"36"	39991732
+	"40-44 years"	"40-44"	"North Carolina"	"37"	18136789
+	"40-44 years"	"40-44"	"North Dakota"	"38"	1286115
+	"40-44 years"	"40-44"	"Ohio"	"39"	23642002
+	"40-44 years"	"40-44"	"Oklahoma"	"40"	7005479
+	"40-44 years"	"40-44"	"Oregon"	"41"	7527357
+	"40-44 years"	"40-44"	"Pennsylvania"	"42"	25721160
+	"40-44 years"	"40-44"	"Rhode Island"	"44"	2177625
+	"40-44 years"	"40-44"	"South Carolina"	"45"	8683142
+	"40-44 years"	"40-44"	"South Dakota"	"46"	1502314
+	"40-44 years"	"40-44"	"Tennessee"	"47"	12374634
+	"40-44 years"	"40-44"	"Texas"	"48"	47009055
+	"40-44 years"	"40-44"	"Utah"	"49"	4387403
+	"40-44 years"	"40-44"	"Vermont"	"50"	1322626
+	"40-44 years"	"40-44"	"Virginia"	"51"	16217764
+	"40-44 years"	"40-44"	"Washington"	"53"	13434072
+	"40-44 years"	"40-44"	"West Virginia"	"54"	3779975
+	"40-44 years"	"40-44"	"Wisconsin"	"55"	11406084
+	"40-44 years"	"40-44"	"Wyoming"	"56"	1080404
+"Total"	"40-44 years"	"40-44"			607275439
+	"45-49 years"	"45-49"	"Alabama"	"01"	9006755
+	"45-49 years"	"45-49"	"Alaska"	"02"	1422812
+	"45-49 years"	"45-49"	"Arizona"	"04"	10230425
+	"45-49 years"	"45-49"	"Arkansas"	"05"	5241541
+	"45-49 years"	"45-49"	"California"	"06"	68620172
+	"45-49 years"	"45-49"	"Colorado"	"08"	9484261
+	"45-49 years"	"45-49"	"Connecticut"	"09"	7453583
+	"45-49 years"	"45-49"	"Delaware"	"10"	1651809
+	"45-49 years"	"45-49"	"District of Columbia"	"11"	1091066
+	"45-49 years"	"45-49"	"Florida"	"12"	33625523
+	"45-49 years"	"45-49"	"Georgia"	"13"	17698996
+	"45-49 years"	"45-49"	"Hawaii"	"15"	2534451
+	"45-49 years"	"45-49"	"Idaho"	"16"	2623232
+	"45-49 years"	"45-49"	"Illinois"	"17"	24687413
+	"45-49 years"	"45-49"	"Indiana"	"18"	12364086
+	"45-49 years"	"45-49"	"Iowa"	"19"	5749303
+	"45-49 years"	"45-49"	"Kansas"	"20"	5246856
+	"45-49 years"	"45-49"	"Kentucky"	"21"	8368016
+	"45-49 years"	"45-49"	"Louisiana"	"22"	8643785
+	"45-49 years"	"45-49"	"Maine"	"23"	2803229
+	"45-49 years"	"45-49"	"Maryland"	"24"	11748304
+	"45-49 years"	"45-49"	"Massachusetts"	"25"	13290422
+	"45-49 years"	"45-49"	"Michigan"	"26"	20099075
+	"45-49 years"	"45-49"	"Minnesota"	"27"	10223429
+	"45-49 years"	"45-49"	"Mississippi"	"28"	5401432
+	"45-49 years"	"45-49"	"Missouri"	"29"	11256132
+	"45-49 years"	"45-49"	"Montana"	"30"	1903652
+	"45-49 years"	"45-49"	"Nebraska"	"31"	3350714
+	"45-49 years"	"45-49"	"Nevada"	"32"	4487827
+	"45-49 years"	"45-49"	"New Hampshire"	"33"	2807196
+	"45-49 years"	"45-49"	"New Jersey"	"34"	18029516
+	"45-49 years"	"45-49"	"New Mexico"	"35"	3624320
+	"45-49 years"	"45-49"	"New York"	"36"	38424580
+	"45-49 years"	"45-49"	"North Carolina"	"37"	17377391
+	"45-49 years"	"45-49"	"North Dakota"	"38"	1247773
+	"45-49 years"	"45-49"	"Ohio"	"39"	23040552
+	"45-49 years"	"45-49"	"Oklahoma"	"40"	6782893
+	"45-49 years"	"45-49"	"Oregon"	"41"	7270244
+	"45-49 years"	"45-49"	"Pennsylvania"	"42"	25331459
+	"45-49 years"	"45-49"	"Rhode Island"	"44"	2122094
+	"45-49 years"	"45-49"	"South Carolina"	"45"	8441743
+	"45-49 years"	"45-49"	"South Dakota"	"46"	1456729
+	"45-49 years"	"45-49"	"Tennessee"	"47"	11993538
+	"45-49 years"	"45-49"	"Texas"	"48"	43437113
+	"45-49 years"	"45-49"	"Utah"	"49"	3919166
+	"45-49 years"	"45-49"	"Vermont"	"50"	1324499
+	"45-49 years"	"45-49"	"Virginia"	"51"	15640486
+	"45-49 years"	"45-49"	"Washington"	"53"	12846063
+	"45-49 years"	"45-49"	"West Virginia"	"54"	3750047
+	"45-49 years"	"45-49"	"Wisconsin"	"55"	11105438
+	"45-49 years"	"45-49"	"Wyoming"	"56"	1056280
+"Total"	"45-49 years"	"45-49"			581337421
+	"50-54 years"	"50-54"	"Alabama"	"01"	8497528
+	"50-54 years"	"50-54"	"Alaska"	"02"	1278104
+	"50-54 years"	"50-54"	"Arizona"	"04"	9493836
+	"50-54 years"	"50-54"	"Arkansas"	"05"	4977425
+	"50-54 years"	"50-54"	"California"	"06"	61501771
+	"50-54 years"	"50-54"	"Colorado"	"08"	8548673
+	"50-54 years"	"50-54"	"Connecticut"	"09"	6900305
+	"50-54 years"	"50-54"	"Delaware"	"10"	1551195
+	"50-54 years"	"50-54"	"District of Columbia"	"11"	1008921
+	"50-54 years"	"50-54"	"Florida"	"12"	31674110
+	"50-54 years"	"50-54"	"Georgia"	"13"	15872711
+	"50-54 years"	"50-54"	"Hawaii"	"15"	2365170
+	"50-54 years"	"50-54"	"Idaho"	"16"	2444019
+	"50-54 years"	"50-54"	"Illinois"	"17"	22688918
+	"50-54 years"	"50-54"	"Indiana"	"18"	11491573
+	"50-54 years"	"50-54"	"Iowa"	"19"	5426479
+	"50-54 years"	"50-54"	"Kansas"	"20"	4870959
+	"50-54 years"	"50-54"	"Kentucky"	"21"	7828655
+	"50-54 years"	"50-54"	"Louisiana"	"22"	8057246
+	"50-54 years"	"50-54"	"Maine"	"23"	2656335
+	"50-54 years"	"50-54"	"Maryland"	"24"	10777889
+	"50-54 years"	"50-54"	"Massachusetts"	"25"	12201062
+	"50-54 years"	"50-54"	"Michigan"	"26"	18700787
+	"50-54 years"	"50-54"	"Minnesota"	"27"	9416372
+	"50-54 years"	"50-54"	"Mississippi"	"28"	5061637
+	"50-54 years"	"50-54"	"Missouri"	"29"	10614526
+	"50-54 years"	"50-54"	"Montana"	"30"	1834741
+	"50-54 years"	"50-54"	"Nebraska"	"31"	3116837
+	"50-54 years"	"50-54"	"Nevada"	"32"	4168394
+	"50-54 years"	"50-54"	"New Hampshire"	"33"	2596407
+	"50-54 years"	"50-54"	"New Jersey"	"34"	16509835
+	"50-54 years"	"50-54"	"New Mexico"	"35"	3422875
+	"50-54 years"	"50-54"	"New York"	"36"	35669712
+	"50-54 years"	"50-54"	"North Carolina"	"37"	16029559
+	"50-54 years"	"50-54"	"North Dakota"	"38"	1181057
+	"50-54 years"	"50-54"	"Ohio"	"39"	21579919
+	"50-54 years"	"50-54"	"Oklahoma"	"40"	6405439
+	"50-54 years"	"50-54"	"Oregon"	"41"	6773412
+	"50-54 years"	"50-54"	"Pennsylvania"	"42"	23833712
+	"50-54 years"	"50-54"	"Rhode Island"	"44"	1964736
+	"50-54 years"	"50-54"	"South Carolina"	"45"	7941709
+	"50-54 years"	"50-54"	"South Dakota"	"46"	1380144
+	"50-54 years"	"50-54"	"Tennessee"	"47"	11216312
+	"50-54 years"	"50-54"	"Texas"	"48"	38824821
+	"50-54 years"	"50-54"	"Utah"	"49"	3482501
+	"50-54 years"	"50-54"	"Vermont"	"50"	1251716
+	"50-54 years"	"50-54"	"Virginia"	"51"	14354996
+	"50-54 years"	"50-54"	"Washington"	"53"	11779195
+	"50-54 years"	"50-54"	"West Virginia"	"54"	3606520
+	"50-54 years"	"50-54"	"Wisconsin"	"55"	10336395
+	"50-54 years"	"50-54"	"Wyoming"	"56"	1004399
+"Total"	"50-54 years"	"50-54"			536171549
+	"55-59 years"	"55-59"	"Alabama"	"01"	7683943
+	"55-59 years"	"55-59"	"Alaska"	"02"	1050859
+	"55-59 years"	"55-59"	"Arizona"	"04"	8629852
+	"55-59 years"	"55-59"	"Arkansas"	"05"	4547516
+	"55-59 years"	"55-59"	"California"	"06"	52476964
+	"55-59 years"	"55-59"	"Colorado"	"08"	7348474
+	"55-59 years"	"55-59"	"Connecticut"	"09"	5973382
+	"55-59 years"	"55-59"	"Delaware"	"10"	1398219
+	"55-59 years"	"55-59"	"District of Columbia"	"11"	894325
+	"55-59 years"	"55-59"	"Florida"	"12"	29036626
+	"55-59 years"	"55-59"	"Georgia"	"13"	13528541
+	"55-59 years"	"55-59"	"Hawaii"	"15"	2122738
+	"55-59 years"	"55-59"	"Idaho"	"16"	2195607
+	"55-59 years"	"55-59"	"Illinois"	"17"	19808783
+	"55-59 years"	"55-59"	"Indiana"	"18"	10160059
+	"55-59 years"	"55-59"	"Iowa"	"19"	4902107
+	"55-59 years"	"55-59"	"Kansas"	"20"	4315906
+	"55-59 years"	"55-59"	"Kentucky"	"21"	6996980
+	"55-59 years"	"55-59"	"Louisiana"	"22"	7141095
+	"55-59 years"	"55-59"	"Maine"	"23"	2403023
+	"55-59 years"	"55-59"	"Maryland"	"24"	9230135
+	"55-59 years"	"55-59"	"Massachusetts"	"25"	10608515
+	"55-59 years"	"55-59"	"Michigan"	"26"	16525369
+	"55-59 years"	"55-59"	"Minnesota"	"27"	8179790
+	"55-59 years"	"55-59"	"Mississippi"	"28"	4548914
+	"55-59 years"	"55-59"	"Missouri"	"29"	9532178
+	"55-59 years"	"55-59"	"Montana"	"30"	1691026
+	"55-59 years"	"55-59"	"Nebraska"	"31"	2781379
+	"55-59 years"	"55-59"	"Nevada"	"32"	3763508
+	"55-59 years"	"55-59"	"New Hampshire"	"33"	2251705
+	"55-59 years"	"55-59"	"New Jersey"	"34"	14249114
+	"55-59 years"	"55-59"	"New Mexico"	"35"	3106275
+	"55-59 years"	"55-59"	"New York"	"36"	31299206
+	"55-59 years"	"55-59"	"North Carolina"	"37"	14297144
+	"55-59 years"	"55-59"	"North Dakota"	"38"	1069676
+	"55-59 years"	"55-59"	"Ohio"	"39"	19249025
+	"55-59 years"	"55-59"	"Oklahoma"	"40"	5801900
+	"55-59 years"	"55-59"	"Oregon"	"41"	6095792
+	"55-59 years"	"55-59"	"Pennsylvania"	"42"	21441581
+	"55-59 years"	"55-59"	"Rhode Island"	"44"	1724842
+	"55-59 years"	"55-59"	"South Carolina"	"45"	7211701
+	"55-59 years"	"55-59"	"South Dakota"	"46"	1255118
+	"55-59 years"	"55-59"	"Tennessee"	"47"	10044417
+	"55-59 years"	"55-59"	"Texas"	"48"	33266552
+	"55-59 years"	"55-59"	"Utah"	"49"	3022926
+	"55-59 years"	"55-59"	"Vermont"	"50"	1116832
+	"55-59 years"	"55-59"	"Virginia"	"51"	12392991
+	"55-59 years"	"55-59"	"Washington"	"53"	10305423
+	"55-59 years"	"55-59"	"West Virginia"	"54"	3350529
+	"55-59 years"	"55-59"	"Wisconsin"	"55"	9104360
+	"55-59 years"	"55-59"	"Wyoming"	"56"	905529
+"Total"	"55-59 years"	"55-59"			472038451
+	"60-64 years "	"60-64"	"Alabama"	"01"	6721671
+	"60-64 years "	"60-64"	"Alaska"	"02"	776719
+	"60-64 years "	"60-64"	"Arizona"	"04"	7807104
+	"60-64 years "	"60-64"	"Arkansas"	"05"	4059516
+	"60-64 years "	"60-64"	"California"	"06"	43324114
+	"60-64 years "	"60-64"	"Colorado"	"08"	6009548
+	"60-64 years "	"60-64"	"Connecticut"	"09"	4972219
+	"60-64 years "	"60-64"	"Delaware"	"10"	1248231
+	"60-64 years "	"60-64"	"District of Columbia"	"11"	763667
+	"60-64 years "	"60-64"	"Florida"	"12"	27031651
+	"60-64 years "	"60-64"	"Georgia"	"13"	11152218
+	"60-64 years "	"60-64"	"Hawaii"	"15"	1865491
+	"60-64 years "	"60-64"	"Idaho"	"16"	1898903
+	"60-64 years "	"60-64"	"Illinois"	"17"	16650643
+	"60-64 years "	"60-64"	"Indiana"	"18"	8632445
+	"60-64 years "	"60-64"	"Iowa"	"19"	4264318
+	"60-64 years "	"60-64"	"Kansas"	"20"	3683467
+	"60-64 years "	"60-64"	"Kentucky"	"21"	6037743
+	"60-64 years "	"60-64"	"Louisiana"	"22"	6079300
+	"60-64 years "	"60-64"	"Maine"	"23"	2099445
+	"60-64 years "	"60-64"	"Maryland"	"24"	7559492
+	"60-64 years "	"60-64"	"Massachusetts"	"25"	8971012
+	"60-64 years "	"60-64"	"Michigan"	"26"	14018102
+	"60-64 years "	"60-64"	"Minnesota"	"27"	6781210
+	"60-64 years "	"60-64"	"Mississippi"	"28"	3946238
+	"60-64 years "	"60-64"	"Missouri"	"29"	8241478
+	"60-64 years "	"60-64"	"Montana"	"30"	1472930
+	"60-64 years "	"60-64"	"Nebraska"	"31"	2382003
+	"60-64 years "	"60-64"	"Nevada"	"32"	3289870
+	"60-64 years "	"60-64"	"New Hampshire"	"33"	1865339
+	"60-64 years "	"60-64"	"New Jersey"	"34"	11973690
+	"60-64 years "	"60-64"	"New Mexico"	"35"	2706516
+	"60-64 years "	"60-64"	"New York"	"36"	26747136
+	"60-64 years "	"60-64"	"North Carolina"	"37"	12394852
+	"60-64 years "	"60-64"	"North Dakota"	"38"	918935
+	"60-64 years "	"60-64"	"Ohio"	"39"	16515176
+	"60-64 years "	"60-64"	"Oklahoma"	"40"	5048871
+	"60-64 years "	"60-64"	"Oregon"	"41"	5294790
+	"60-64 years "	"60-64"	"Pennsylvania"	"42"	18794065
+	"60-64 years "	"60-64"	"Rhode Island"	"44"	1475822
+	"60-64 years "	"60-64"	"South Carolina"	"45"	6384972
+	"60-64 years "	"60-64"	"South Dakota"	"46"	1104196
+	"60-64 years "	"60-64"	"Tennessee"	"47"	8709413
+	"60-64 years "	"60-64"	"Texas"	"48"	27452339
+	"60-64 years "	"60-64"	"Utah"	"49"	2516634
+	"60-64 years "	"60-64"	"Vermont"	"50"	945897
+	"60-64 years "	"60-64"	"Virginia"	"51"	10274952
+	"60-64 years "	"60-64"	"Washington"	"53"	8614251
+	"60-64 years "	"60-64"	"West Virginia"	"54"	3022421
+	"60-64 years "	"60-64"	"Wisconsin"	"55"	7711525
+	"60-64 years "	"60-64"	"Wyoming"	"56"	762900
+"Total"	"60-64 years "	"60-64"			402975440
+	"65-69 years"	"65-69"	"Alabama"	"01"	5726504
+	"65-69 years"	"65-69"	"Alaska"	"02"	530982
+	"65-69 years"	"65-69"	"Arizona"	"04"	7098701
+	"65-69 years"	"65-69"	"Arkansas"	"05"	3565730
+	"65-69 years"	"65-69"	"California"	"06"	35667834
+	"65-69 years"	"65-69"	"Colorado"	"08"	4743967
+	"65-69 years"	"65-69"	"Connecticut"	"09"	4111845
+	"65-69 years"	"65-69"	"Delaware"	"10"	1093874
+	"65-69 years"	"65-69"	"District of Columbia"	"11"	635945
+	"65-69 years"	"65-69"	"Florida"	"12"	25817321
+	"65-69 years"	"65-69"	"Georgia"	"13"	9030426
+	"65-69 years"	"65-69"	"Hawaii"	"15"	1586595
+	"65-69 years"	"65-69"	"Idaho"	"16"	1592362
+	"65-69 years"	"65-69"	"Illinois"	"17"	13752092
+	"65-69 years"	"65-69"	"Indiana"	"18"	7170041
+	"65-69 years"	"65-69"	"Iowa"	"19"	3627961
+	"65-69 years"	"65-69"	"Kansas"	"20"	3083347
+	"65-69 years"	"65-69"	"Kentucky"	"21"	5058984
+	"65-69 years"	"65-69"	"Louisiana"	"22"	5036664
+	"65-69 years"	"65-69"	"Maine"	"23"	1774802
+	"65-69 years"	"65-69"	"Maryland"	"24"	6095174
+	"65-69 years"	"65-69"	"Massachusetts"	"25"	7538722
+	"65-69 years"	"65-69"	"Michigan"	"26"	11620275
+	"65-69 years"	"65-69"	"Minnesota"	"27"	5515729
+	"65-69 years"	"65-69"	"Mississippi"	"28"	3342063
+	"65-69 years"	"65-69"	"Missouri"	"29"	7020241
+	"65-69 years"	"65-69"	"Montana"	"30"	1221607
+	"65-69 years"	"65-69"	"Nebraska"	"31"	1999288
+	"65-69 years"	"65-69"	"Nevada"	"32"	2795755
+	"65-69 years"	"65-69"	"New Hampshire"	"33"	1517776
+	"65-69 years"	"65-69"	"New Jersey"	"34"	9984268
+	"65-69 years"	"65-69"	"New Mexico"	"35"	2277328
+	"65-69 years"	"65-69"	"New York"	"36"	22236890
+	"65-69 years"	"65-69"	"North Carolina"	"37"	10510183
+	"65-69 years"	"65-69"	"North Dakota"	"38"	765688
+	"65-69 years"	"65-69"	"Ohio"	"39"	13861056
+	"65-69 years"	"65-69"	"Oklahoma"	"40"	4324724
+	"65-69 years"	"65-69"	"Oregon"	"41"	4453791
+	"65-69 years"	"65-69"	"Pennsylvania"	"42"	16279250
+	"65-69 years"	"65-69"	"Rhode Island"	"44"	1256086
+	"65-69 years"	"65-69"	"South Carolina"	"45"	5517324
+	"65-69 years"	"65-69"	"South Dakota"	"46"	932202
+	"65-69 years"	"65-69"	"Tennessee"	"47"	7335936
+	"65-69 years"	"65-69"	"Texas"	"48"	22358126
+	"65-69 years"	"65-69"	"Utah"	"49"	2046180
+	"65-69 years"	"65-69"	"Vermont"	"50"	770800
+	"65-69 years"	"65-69"	"Virginia"	"51"	8409390
+	"65-69 years"	"65-69"	"Washington"	"53"	6976719
+	"65-69 years"	"65-69"	"West Virginia"	"54"	2628223
+	"65-69 years"	"65-69"	"Wisconsin"	"55"	6393451
+	"65-69 years"	"65-69"	"Wyoming"	"56"	608530
+"Total"	"65-69 years"	"65-69"			339298752
+	"70-74 years"	"70-74"	"Alabama"	"01"	4609253
+	"70-74 years"	"70-74"	"Alaska"	"02"	353241
+	"70-74 years"	"70-74"	"Arizona"	"04"	5896485
+	"70-74 years"	"70-74"	"Arkansas"	"05"	2915718
+	"70-74 years"	"70-74"	"California"	"06"	28463930
+	"70-74 years"	"70-74"	"Colorado"	"08"	3567270
+	"70-74 years"	"70-74"	"Connecticut"	"09"	3409519
+	"70-74 years"	"70-74"	"Delaware"	"10"	876324
+	"70-74 years"	"70-74"	"District of Columbia"	"11"	509883
+	"70-74 years"	"70-74"	"Florida"	"12"	22629849
+	"70-74 years"	"70-74"	"Georgia"	"13"	6884126
+	"70-74 years"	"70-74"	"Hawaii"	"15"	1271268
+	"70-74 years"	"70-74"	"Idaho"	"16"	1258080
+	"70-74 years"	"70-74"	"Illinois"	"17"	11165486
+	"70-74 years"	"70-74"	"Indiana"	"18"	5771390
+	"70-74 years"	"70-74"	"Iowa"	"19"	3052751
+	"70-74 years"	"70-74"	"Kansas"	"20"	2546754
+	"70-74 years"	"70-74"	"Kentucky"	"21"	4016653
+	"70-74 years"	"70-74"	"Louisiana"	"22"	4011334
+	"70-74 years"	"70-74"	"Maine"	"23"	1423776
+	"70-74 years"	"70-74"	"Maryland"	"24"	4778221
+	"70-74 years"	"70-74"	"Massachusetts"	"25"	6214757
+	"70-74 years"	"70-74"	"Michigan"	"26"	9366386
+	"70-74 years"	"70-74"	"Minnesota"	"27"	4445741
+	"70-74 years"	"70-74"	"Mississippi"	"28"	2682725
+	"70-74 years"	"70-74"	"Missouri"	"29"	5731341
+	"70-74 years"	"70-74"	"Montana"	"30"	973654
+	"70-74 years"	"70-74"	"Nebraska"	"31"	1654541
+	"70-74 years"	"70-74"	"Nevada"	"32"	2140874
+	"70-74 years"	"70-74"	"New Hampshire"	"33"	1179286
+	"70-74 years"	"70-74"	"New Jersey"	"34"	8230698
+	"70-74 years"	"70-74"	"New Mexico"	"35"	1789125
+	"70-74 years"	"70-74"	"New York"	"36"	18107045
+	"70-74 years"	"70-74"	"North Carolina"	"37"	8274145
+	"70-74 years"	"70-74"	"North Dakota"	"38"	646328
+	"70-74 years"	"70-74"	"Ohio"	"39"	11343873
+	"70-74 years"	"70-74"	"Oklahoma"	"40"	3507719
+	"70-74 years"	"70-74"	"Oregon"	"41"	3545289
+	"70-74 years"	"70-74"	"Pennsylvania"	"42"	13833002
+	"70-74 years"	"70-74"	"Rhode Island"	"44"	1063350
+	"70-74 years"	"70-74"	"South Carolina"	"45"	4292788
+	"70-74 years"	"70-74"	"South Dakota"	"46"	770862
+	"70-74 years"	"70-74"	"Tennessee"	"47"	5783298
+	"70-74 years"	"70-74"	"Texas"	"48"	17375086
+	"70-74 years"	"70-74"	"Utah"	"49"	1615761
+	"70-74 years"	"70-74"	"Vermont"	"50"	603419
+	"70-74 years"	"70-74"	"Virginia"	"51"	6575029
+	"70-74 years"	"70-74"	"Washington"	"53"	5422740
+	"70-74 years"	"70-74"	"West Virginia"	"54"	2142522
+	"70-74 years"	"70-74"	"Wisconsin"	"55"	5212822
+	"70-74 years"	"70-74"	"Wyoming"	"56"	467260
+"Total"	"70-74 years"	"70-74"			274402777
+	"75-79 years"	"75-79"	"Alabama"	"01"	3519697
+	"75-79 years"	"75-79"	"Alaska"	"02"	227017
+	"75-79 years"	"75-79"	"Arizona"	"04"	4470740
+	"75-79 years"	"75-79"	"Arkansas"	"05"	2262706
+	"75-79 years"	"75-79"	"California"	"06"	22143940
+	"75-79 years"	"75-79"	"Colorado"	"08"	2634603
+	"75-79 years"	"75-79"	"Connecticut"	"09"	2769037
+	"75-79 years"	"75-79"	"Delaware"	"10"	648408
+	"75-79 years"	"75-79"	"District of Columbia"	"11"	399186
+	"75-79 years"	"75-79"	"Florida"	"12"	18039901
+	"75-79 years"	"75-79"	"Georgia"	"13"	5037870
+	"75-79 years"	"75-79"	"Hawaii"	"15"	978288
+	"75-79 years"	"75-79"	"Idaho"	"16"	958252
+	"75-79 years"	"75-79"	"Illinois"	"17"	8880475
+	"75-79 years"	"75-79"	"Indiana"	"18"	4521221
+	"75-79 years"	"75-79"	"Iowa"	"19"	2551770
+	"75-79 years"	"75-79"	"Kansas"	"20"	2084619
+	"75-79 years"	"75-79"	"Kentucky"	"21"	3053068
+	"75-79 years"	"75-79"	"Louisiana"	"22"	3042315
+	"75-79 years"	"75-79"	"Maine"	"23"	1107237
+	"75-79 years"	"75-79"	"Maryland"	"24"	3636799
+	"75-79 years"	"75-79"	"Massachusetts"	"25"	5027181
+	"75-79 years"	"75-79"	"Michigan"	"26"	7315236
+	"75-79 years"	"75-79"	"Minnesota"	"27"	3597077
+	"75-79 years"	"75-79"	"Mississippi"	"28"	2051489
+	"75-79 years"	"75-79"	"Missouri"	"29"	4536392
+	"75-79 years"	"75-79"	"Montana"	"30"	752370
+	"75-79 years"	"75-79"	"Nebraska"	"31"	1361448
+	"75-79 years"	"75-79"	"Nevada"	"32"	1486178
+	"75-79 years"	"75-79"	"New Hampshire"	"33"	900283
+	"75-79 years"	"75-79"	"New Jersey"	"34"	6549645
+	"75-79 years"	"75-79"	"New Mexico"	"35"	1336687
+	"75-79 years"	"75-79"	"New York"	"36"	14357712
+	"75-79 years"	"75-79"	"North Carolina"	"37"	6181546
+	"75-79 years"	"75-79"	"North Dakota"	"38"	546428
+	"75-79 years"	"75-79"	"Ohio"	"39"	8981734
+	"75-79 years"	"75-79"	"Oklahoma"	"40"	2730155
+	"75-79 years"	"75-79"	"Oregon"	"41"	2755980
+	"75-79 years"	"75-79"	"Pennsylvania"	"42"	11299889
+	"75-79 years"	"75-79"	"Rhode Island"	"44"	875941
+	"75-79 years"	"75-79"	"South Carolina"	"45"	3118127
+	"75-79 years"	"75-79"	"South Dakota"	"46"	635657
+	"75-79 years"	"75-79"	"Tennessee"	"47"	4358281
+	"75-79 years"	"75-79"	"Texas"	"48"	12997130
+	"75-79 years"	"75-79"	"Utah"	"49"	1241035
+	"75-79 years"	"75-79"	"Vermont"	"50"	459661
+	"75-79 years"	"75-79"	"Virginia"	"51"	4922629
+	"75-79 years"	"75-79"	"Washington"	"53"	4153053
+	"75-79 years"	"75-79"	"West Virginia"	"54"	1661292
+	"75-79 years"	"75-79"	"Wisconsin"	"55"	4215370
+	"75-79 years"	"75-79"	"Wyoming"	"56"	349749
+"Total"	"75-79 years"	"75-79"			213722504
+	"80-84 years"	"80-84"	"Alabama"	"01"	2403211
+	"80-84 years"	"80-84"	"Alaska"	"02"	135931
+	"80-84 years"	"80-84"	"Arizona"	"04"	2989308
+	"80-84 years"	"80-84"	"Arkansas"	"05"	1579573
+	"80-84 years"	"80-84"	"California"	"06"	15749206
+	"80-84 years"	"80-84"	"Colorado"	"08"	1834342
+	"80-84 years"	"80-84"	"Connecticut"	"09"	2081934
+	"80-84 years"	"80-84"	"Delaware"	"10"	434744
+	"80-84 years"	"80-84"	"District of Columbia"	"11"	287287
+	"80-84 years"	"80-84"	"Florida"	"12"	12645279
+	"80-84 years"	"80-84"	"Georgia"	"13"	3382941
+	"80-84 years"	"80-84"	"Hawaii"	"15"	702950
+	"80-84 years"	"80-84"	"Idaho"	"16"	671894
+	"80-84 years"	"80-84"	"Illinois"	"17"	6429823
+	"80-84 years"	"80-84"	"Indiana"	"18"	3214540
+	"80-84 years"	"80-84"	"Iowa"	"19"	1946969
+	"80-84 years"	"80-84"	"Kansas"	"20"	1571692
+	"80-84 years"	"80-84"	"Kentucky"	"21"	2104808
+	"80-84 years"	"80-84"	"Louisiana"	"22"	2087664
+	"80-84 years"	"80-84"	"Maine"	"23"	798238
+	"80-84 years"	"80-84"	"Maryland"	"24"	2538777
+	"80-84 years"	"80-84"	"Massachusetts"	"25"	3762370
+	"80-84 years"	"80-84"	"Michigan"	"26"	5195438
+	"80-84 years"	"80-84"	"Minnesota"	"27"	2698935
+	"80-84 years"	"80-84"	"Mississippi"	"28"	1419982
+	"80-84 years"	"80-84"	"Missouri"	"29"	3269946
+	"80-84 years"	"80-84"	"Montana"	"30"	536570
+	"80-84 years"	"80-84"	"Nebraska"	"31"	1034783
+	"80-84 years"	"80-84"	"Nevada"	"32"	908134
+	"80-84 years"	"80-84"	"New Hampshire"	"33"	648892
+	"80-84 years"	"80-84"	"New Jersey"	"34"	4754347
+	"80-84 years"	"80-84"	"New Mexico"	"35"	911195
+	"80-84 years"	"80-84"	"New York"	"36"	10478335
+	"80-84 years"	"80-84"	"North Carolina"	"37"	4199111
+	"80-84 years"	"80-84"	"North Dakota"	"38"	428293
+	"80-84 years"	"80-84"	"Ohio"	"39"	6406711
+	"80-84 years"	"80-84"	"Oklahoma"	"40"	1922296
+	"80-84 years"	"80-84"	"Oregon"	"41"	1981077
+	"80-84 years"	"80-84"	"Pennsylvania"	"42"	8301511
+	"80-84 years"	"80-84"	"Rhode Island"	"44"	668205
+	"80-84 years"	"80-84"	"South Carolina"	"45"	2045010
+	"80-84 years"	"80-84"	"South Dakota"	"46"	484919
+	"80-84 years"	"80-84"	"Tennessee"	"47"	2987087
+	"80-84 years"	"80-84"	"Texas"	"48"	8948734
+	"80-84 years"	"80-84"	"Utah"	"49"	868722
+	"80-84 years"	"80-84"	"Vermont"	"50"	332769
+	"80-84 years"	"80-84"	"Virginia"	"51"	3370580
+	"80-84 years"	"80-84"	"Washington"	"53"	2961966
+	"80-84 years"	"80-84"	"West Virginia"	"54"	1151903
+	"80-84 years"	"80-84"	"Wisconsin"	"55"	3126724
+	"80-84 years"	"80-84"	"Wyoming"	"56"	242274
+"Total"	"80-84 years"	"80-84"			151637930
+	"85+ years"	"85+"	"Alabama"	"01"	2015114
+	"85+ years"	"85+"	"Alaska"	"02"	105153
+	"85+ years"	"85+"	"Arizona"	"04"	2455311
+	"85+ years"	"85+"	"Arkansas"	"05"	1386456
+	"85+ years"	"85+"	"California"	"06"	14584274
+	"85+ years"	"85+"	"Colorado"	"08"	1686797
+	"85+ years"	"85+"	"Connecticut"	"09"	2091186
+	"85+ years"	"85+"	"Delaware"	"10"	373622
+	"85+ years"	"85+"	"District of Columbia"	"11"	276765
+	"85+ years"	"85+"	"Florida"	"12"	10917029
+	"85+ years"	"85+"	"Georgia"	"13"	2871835
+	"85+ years"	"85+"	"Hawaii"	"15"	690328
+	"85+ years"	"85+"	"Idaho"	"16"	598106
+	"85+ years"	"85+"	"Illinois"	"17"	6056200
+	"85+ years"	"85+"	"Indiana"	"18"	2942951
+	"85+ years"	"85+"	"Iowa"	"19"	1996175
+	"85+ years"	"85+"	"Kansas"	"20"	1586951
+	"85+ years"	"85+"	"Kentucky"	"21"	1823135
+	"85+ years"	"85+"	"Louisiana"	"22"	1775106
+	"85+ years"	"85+"	"Maine"	"23"	748708
+	"85+ years"	"85+"	"Maryland"	"24"	2344134
+	"85+ years"	"85+"	"Massachusetts"	"25"	3712369
+	"85+ years"	"85+"	"Michigan"	"26"	4719371
+	"85+ years"	"85+"	"Minnesota"	"27"	2756470
+	"85+ years"	"85+"	"Mississippi"	"28"	1236243
+	"85+ years"	"85+"	"Missouri"	"29"	3058290
+	"85+ years"	"85+"	"Montana"	"30"	497026
+	"85+ years"	"85+"	"Nebraska"	"31"	1051563
+	"85+ years"	"85+"	"Nevada"	"32"	677674
+	"85+ years"	"85+"	"New Hampshire"	"33"	621482
+	"85+ years"	"85+"	"New Jersey"	"34"	4412246
+	"85+ years"	"85+"	"New Mexico"	"35"	781320
+	"85+ years"	"85+"	"New York"	"36"	10037719
+	"85+ years"	"85+"	"North Carolina"	"37"	3599997
+	"85+ years"	"85+"	"North Dakota"	"38"	446938
+	"85+ years"	"85+"	"Ohio"	"39"	5774105
+	"85+ years"	"85+"	"Oklahoma"	"40"	1705566
+	"85+ years"	"85+"	"Oregon"	"41"	1874104
+	"85+ years"	"85+"	"Pennsylvania"	"42"	7607741
+	"85+ years"	"85+"	"Rhode Island"	"44"	667686
+	"85+ years"	"85+"	"South Carolina"	"45"	1697223
+	"85+ years"	"85+"	"South Dakota"	"46"	501623
+	"85+ years"	"85+"	"Tennessee"	"47"	2572731
+	"85+ years"	"85+"	"Texas"	"48"	7815743
+	"85+ years"	"85+"	"Utah"	"49"	739829
+	"85+ years"	"85+"	"Vermont"	"50"	321960
+	"85+ years"	"85+"	"Virginia"	"51"	2973929
+	"85+ years"	"85+"	"Washington"	"53"	2804633
+	"85+ years"	"85+"	"West Virginia"	"54"	962496
+	"85+ years"	"85+"	"Wisconsin"	"55"	3026998
+	"85+ years"	"85+"	"Wyoming"	"56"	218346
+"Total"	"85+ years"	"85+"			138198757
+"Total"					8454392295
+"---"
+"Dataset: Bridged-Race Population Estimates 1990-2018"
+"Query Parameters:"
+"Group By: Age Group; State"
+"Show Totals: True"
+"Show Zero Values: True"
+"Data Table: Default"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/bridged-race.html for more information."
+"---"
+"Query Date: Jul 20, 2020 1:44:13 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Bridged-Race Population Estimates, United States July 1st resident"
+"population by state, county, age, sex, bridged-race, and Hispanic origin. Compiled from 1990-1999 bridged-race intercensal"
+"population estimates (released by NCHS on 7/26/2004); revised bridged-race 2000-2009 intercensal population estimates (released"
+"by NCHS on 10/26/2012); and bridged-race Vintage 2018 (2010-2018) postcensal population estimates (released by NCHS on"
+"6/25/2019). Available on CDC WONDER Online Database. Accessed at http://wonder.cdc.gov/bridged-race-v2018.html on Jul 20, 2020"
+"1:44:13 PM"
+"---"
+Footnotes:
+"1. Estimates for 1990-1999 are bridged-race intercensal population estimates of the July 1 resident population. Estimates for"
+"2000-2009 are revised bridged-race intercensal estimates of the July 1 resident population. Estimates for 2010-2018 are"
+"bridged-race Vintage 2018 postcensal estimates of the July 1 resident population. These estimates were prepared by the Census"
+"Bureau in collaboration with NCHS."
+"---"
+Caveats:
+"1. The query results include the sum of the population for more than one year. To see the population for a single year, either"
+"sort by year, or select only one year."

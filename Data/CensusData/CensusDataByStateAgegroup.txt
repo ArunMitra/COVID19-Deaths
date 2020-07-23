@@ -1,0 +1,1054 @@
+"Notes"	"State"	"State Code"	"Age Group"	"Age Group Code"	Population
+	"Alabama"	"01"	"< 1 year"	"1"	56739
+	"Alabama"	"01"	"1-4 years"	"1-4"	236464
+	"Alabama"	"01"	"5-9 years"	"5-9"	297900
+	"Alabama"	"01"	"10-14 years"	"10-14"	310495
+	"Alabama"	"01"	"15-19 years"	"15-19"	315680
+	"Alabama"	"01"	"20-24 years"	"20-24"	325220
+	"Alabama"	"01"	"25-29 years"	"25-29"	340014
+	"Alabama"	"01"	"30-34 years"	"30-34"	303526
+	"Alabama"	"01"	"35-39 years"	"35-39"	303994
+	"Alabama"	"01"	"40-44 years"	"40-44"	288308
+	"Alabama"	"01"	"45-49 years"	"45-49"	312966
+	"Alabama"	"01"	"50-54 years"	"50-54"	314492
+	"Alabama"	"01"	"55-59 years"	"55-59"	336811
+	"Alabama"	"01"	"60-64 years "	"60-64"	318368
+	"Alabama"	"01"	"65-69 years"	"65-69"	270799
+	"Alabama"	"01"	"70-74 years"	"70-74"	216922
+	"Alabama"	"01"	"75-79 years"	"75-79"	150858
+	"Alabama"	"01"	"80-84 years"	"80-84"	98450
+	"Alabama"	"01"	"85+ years"	"85+"	89865
+"Total"	"Alabama"	"01"			4887871
+	"Alaska"	"02"	"< 1 year"	"1"	10665
+	"Alaska"	"02"	"1-4 years"	"1-4"	42450
+	"Alaska"	"02"	"5-9 years"	"5-9"	52056
+	"Alaska"	"02"	"10-14 years"	"10-14"	49759
+	"Alaska"	"02"	"15-19 years"	"15-19"	46263
+	"Alaska"	"02"	"20-24 years"	"20-24"	53000
+	"Alaska"	"02"	"25-29 years"	"25-29"	61672
+	"Alaska"	"02"	"30-34 years"	"30-34"	57193
+	"Alaska"	"02"	"35-39 years"	"35-39"	51672
+	"Alaska"	"02"	"40-44 years"	"40-44"	42978
+	"Alaska"	"02"	"45-49 years"	"45-49"	43558
+	"Alaska"	"02"	"50-54 years"	"50-54"	44559
+	"Alaska"	"02"	"55-59 years"	"55-59"	49246
+	"Alaska"	"02"	"60-64 years "	"60-64"	45356
+	"Alaska"	"02"	"65-69 years"	"65-69"	35078
+	"Alaska"	"02"	"70-74 years"	"70-74"	23477
+	"Alaska"	"02"	"75-79 years"	"75-79"	13893
+	"Alaska"	"02"	"80-84 years"	"80-84"	7710
+	"Alaska"	"02"	"85+ years"	"85+"	6853
+"Total"	"Alaska"	"02"			737438
+	"Arizona"	"04"	"< 1 year"	"1"	83553
+	"Arizona"	"04"	"1-4 years"	"1-4"	352383
+	"Arizona"	"04"	"5-9 years"	"5-9"	451726
+	"Arizona"	"04"	"10-14 years"	"10-14"	476421
+	"Arizona"	"04"	"15-19 years"	"15-19"	473794
+	"Arizona"	"04"	"20-24 years"	"20-24"	492176
+	"Arizona"	"04"	"25-29 years"	"25-29"	517980
+	"Arizona"	"04"	"30-34 years"	"30-34"	467865
+	"Arizona"	"04"	"35-39 years"	"35-39"	458887
+	"Arizona"	"04"	"40-44 years"	"40-44"	421544
+	"Arizona"	"04"	"45-49 years"	"45-49"	432165
+	"Arizona"	"04"	"50-54 years"	"50-54"	418625
+	"Arizona"	"04"	"55-59 years"	"55-59"	442085
+	"Arizona"	"04"	"60-64 years "	"60-64"	424192
+	"Arizona"	"04"	"65-69 years"	"65-69"	389729
+	"Arizona"	"04"	"70-74 years"	"70-74"	336433
+	"Arizona"	"04"	"75-79 years"	"75-79"	239494
+	"Arizona"	"04"	"80-84 years"	"80-84"	150319
+	"Arizona"	"04"	"85+ years"	"85+"	142275
+"Total"	"Arizona"	"04"			7171646
+	"Arkansas"	"05"	"< 1 year"	"1"	36901
+	"Arkansas"	"05"	"1-4 years"	"1-4"	153442
+	"Arkansas"	"05"	"5-9 years"	"5-9"	193284
+	"Arkansas"	"05"	"10-14 years"	"10-14"	200786
+	"Arkansas"	"05"	"15-19 years"	"15-19"	197707
+	"Arkansas"	"05"	"20-24 years"	"20-24"	201638
+	"Arkansas"	"05"	"25-29 years"	"25-29"	206497
+	"Arkansas"	"05"	"30-34 years"	"30-34"	190091
+	"Arkansas"	"05"	"35-39 years"	"35-39"	191673
+	"Arkansas"	"05"	"40-44 years"	"40-44"	176845
+	"Arkansas"	"05"	"45-49 years"	"45-49"	184172
+	"Arkansas"	"05"	"50-54 years"	"50-54"	184495
+	"Arkansas"	"05"	"55-59 years"	"55-59"	198163
+	"Arkansas"	"05"	"60-64 years "	"60-64"	186304
+	"Arkansas"	"05"	"65-69 years"	"65-69"	162561
+	"Arkansas"	"05"	"70-74 years"	"70-74"	133450
+	"Arkansas"	"05"	"75-79 years"	"75-79"	95234
+	"Arkansas"	"05"	"80-84 years"	"80-84"	61565
+	"Arkansas"	"05"	"85+ years"	"85+"	59017
+"Total"	"Arkansas"	"05"			3013825
+	"California"	"06"	"< 1 year"	"1"	477320
+	"California"	"06"	"1-4 years"	"1-4"	1963980
+	"California"	"06"	"5-9 years"	"5-9"	2488902
+	"California"	"06"	"10-14 years"	"10-14"	2547973
+	"California"	"06"	"15-19 years"	"15-19"	2545375
+	"California"	"06"	"20-24 years"	"20-24"	2711800
+	"California"	"06"	"25-29 years"	"25-29"	3125816
+	"California"	"06"	"30-34 years"	"30-34"	2917983
+	"California"	"06"	"35-39 years"	"35-39"	2754980
+	"California"	"06"	"40-44 years"	"40-44"	2500691
+	"California"	"06"	"45-49 years"	"45-49"	2568083
+	"California"	"06"	"50-54 years"	"50-54"	2503891
+	"California"	"06"	"55-59 years"	"55-59"	2518810
+	"California"	"06"	"60-64 years "	"60-64"	2262416
+	"California"	"06"	"65-69 years"	"65-69"	1853102
+	"California"	"06"	"70-74 years"	"70-74"	1432312
+	"California"	"06"	"75-79 years"	"75-79"	976718
+	"California"	"06"	"80-84 years"	"80-84"	663308
+	"California"	"06"	"85+ years"	"85+"	743585
+"Total"	"California"	"06"			39557045
+	"Colorado"	"08"	"< 1 year"	"1"	66125
+	"Colorado"	"08"	"1-4 years"	"1-4"	270729
+	"Colorado"	"08"	"5-9 years"	"5-9"	347953
+	"Colorado"	"08"	"10-14 years"	"10-14"	365378
+	"Colorado"	"08"	"15-19 years"	"15-19"	363364
+	"Colorado"	"08"	"20-24 years"	"20-24"	378514
+	"Colorado"	"08"	"25-29 years"	"25-29"	453907
+	"Colorado"	"08"	"30-34 years"	"30-34"	440515
+	"Colorado"	"08"	"35-39 years"	"35-39"	415058
+	"Colorado"	"08"	"40-44 years"	"40-44"	365021
+	"Colorado"	"08"	"45-49 years"	"45-49"	367581
+	"Colorado"	"08"	"50-54 years"	"50-54"	342590
+	"Colorado"	"08"	"55-59 years"	"55-59"	367276
+	"Colorado"	"08"	"60-64 years "	"60-64"	343324
+	"Colorado"	"08"	"65-69 years"	"65-69"	288077
+	"Colorado"	"08"	"70-74 years"	"70-74"	212721
+	"Colorado"	"08"	"75-79 years"	"75-79"	134107
+	"Colorado"	"08"	"80-84 years"	"80-84"	84960
+	"Colorado"	"08"	"85+ years"	"85+"	88364
+"Total"	"Colorado"	"08"			5695564
+	"Connecticut"	"09"	"< 1 year"	"1"	35113
+	"Connecticut"	"09"	"1-4 years"	"1-4"	148021
+	"Connecticut"	"09"	"5-9 years"	"5-9"	196011
+	"Connecticut"	"09"	"10-14 years"	"10-14"	217897
+	"Connecticut"	"09"	"15-19 years"	"15-19"	241904
+	"Connecticut"	"09"	"20-24 years"	"20-24"	243116
+	"Connecticut"	"09"	"25-29 years"	"25-29"	222923
+	"Connecticut"	"09"	"30-34 years"	"30-34"	222467
+	"Connecticut"	"09"	"35-39 years"	"35-39"	217876
+	"Connecticut"	"09"	"40-44 years"	"40-44"	205460
+	"Connecticut"	"09"	"45-49 years"	"45-49"	234976
+	"Connecticut"	"09"	"50-54 years"	"50-54"	259975
+	"Connecticut"	"09"	"55-59 years"	"55-59"	269467
+	"Connecticut"	"09"	"60-64 years "	"60-64"	242338
+	"Connecticut"	"09"	"65-69 years"	"65-69"	190320
+	"Connecticut"	"09"	"70-74 years"	"70-74"	153250
+	"Connecticut"	"09"	"75-79 years"	"75-79"	107386
+	"Connecticut"	"09"	"80-84 years"	"80-84"	72294
+	"Connecticut"	"09"	"85+ years"	"85+"	91871
+"Total"	"Connecticut"	"09"			3572665
+	"Delaware"	"10"	"< 1 year"	"1"	10645
+	"Delaware"	"10"	"1-4 years"	"1-4"	44166
+	"Delaware"	"10"	"5-9 years"	"5-9"	56247
+	"Delaware"	"10"	"10-14 years"	"10-14"	57654
+	"Delaware"	"10"	"15-19 years"	"15-19"	60363
+	"Delaware"	"10"	"20-24 years"	"20-24"	58349
+	"Delaware"	"10"	"25-29 years"	"25-29"	66980
+	"Delaware"	"10"	"30-34 years"	"30-34"	62083
+	"Delaware"	"10"	"35-39 years"	"35-39"	58850
+	"Delaware"	"10"	"40-44 years"	"40-44"	52618
+	"Delaware"	"10"	"45-49 years"	"45-49"	58432
+	"Delaware"	"10"	"50-54 years"	"50-54"	64059
+	"Delaware"	"10"	"55-59 years"	"55-59"	68793
+	"Delaware"	"10"	"60-64 years "	"60-64"	66846
+	"Delaware"	"10"	"65-69 years"	"65-69"	59514
+	"Delaware"	"10"	"70-74 years"	"70-74"	48680
+	"Delaware"	"10"	"75-79 years"	"75-79"	32805
+	"Delaware"	"10"	"80-84 years"	"80-84"	20250
+	"Delaware"	"10"	"85+ years"	"85+"	19837
+"Total"	"Delaware"	"10"			967171
+	"District of Columbia"	"11"	"< 1 year"	"1"	9870
+	"District of Columbia"	"11"	"1-4 years"	"1-4"	35747
+	"District of Columbia"	"11"	"5-9 years"	"5-9"	37622
+	"District of Columbia"	"11"	"10-14 years"	"10-14"	28573
+	"District of Columbia"	"11"	"15-19 years"	"15-19"	36900
+	"District of Columbia"	"11"	"20-24 years"	"20-24"	52924
+	"District of Columbia"	"11"	"25-29 years"	"25-29"	83096
+	"District of Columbia"	"11"	"30-34 years"	"30-34"	80991
+	"District of Columbia"	"11"	"35-39 years"	"35-39"	62212
+	"District of Columbia"	"11"	"40-44 years"	"40-44"	43462
+	"District of Columbia"	"11"	"45-49 years"	"45-49"	38787
+	"District of Columbia"	"11"	"50-54 years"	"50-54"	36666
+	"District of Columbia"	"11"	"55-59 years"	"55-59"	36676
+	"District of Columbia"	"11"	"60-64 years "	"60-64"	33626
+	"District of Columbia"	"11"	"65-69 years"	"65-69"	27984
+	"District of Columbia"	"11"	"70-74 years"	"70-74"	21120
+	"District of Columbia"	"11"	"75-79 years"	"75-79"	14419
+	"District of Columbia"	"11"	"80-84 years"	"80-84"	9627
+	"District of Columbia"	"11"	"85+ years"	"85+"	12153
+"Total"	"District of Columbia"	"11"			702455
+	"Florida"	"12"	"< 1 year"	"1"	222040
+	"Florida"	"12"	"1-4 years"	"1-4"	921143
+	"Florida"	"12"	"5-9 years"	"5-9"	1157587
+	"Florida"	"12"	"10-14 years"	"10-14"	1206247
+	"Florida"	"12"	"15-19 years"	"15-19"	1206422
+	"Florida"	"12"	"20-24 years"	"20-24"	1269823
+	"Florida"	"12"	"25-29 years"	"25-29"	1436477
+	"Florida"	"12"	"30-34 years"	"30-34"	1351778
+	"Florida"	"12"	"35-39 years"	"35-39"	1318582
+	"Florida"	"12"	"40-44 years"	"40-44"	1250182
+	"Florida"	"12"	"45-49 years"	"45-49"	1351855
+	"Florida"	"12"	"50-54 years"	"50-54"	1394517
+	"Florida"	"12"	"55-59 years"	"55-59"	1470580
+	"Florida"	"12"	"60-64 years "	"60-64"	1384021
+	"Florida"	"12"	"65-69 years"	"65-69"	1271880
+	"Florida"	"12"	"70-74 years"	"70-74"	1126022
+	"Florida"	"12"	"75-79 years"	"75-79"	833186
+	"Florida"	"12"	"80-84 years"	"80-84"	555564
+	"Florida"	"12"	"85+ years"	"85+"	571419
+"Total"	"Florida"	"12"			21299325
+	"Georgia"	"13"	"< 1 year"	"1"	126952
+	"Georgia"	"13"	"1-4 years"	"1-4"	530462
+	"Georgia"	"13"	"5-9 years"	"5-9"	685904
+	"Georgia"	"13"	"10-14 years"	"10-14"	727758
+	"Georgia"	"13"	"15-19 years"	"15-19"	728370
+	"Georgia"	"13"	"20-24 years"	"20-24"	716652
+	"Georgia"	"13"	"25-29 years"	"25-29"	767745
+	"Georgia"	"13"	"30-34 years"	"30-34"	705501
+	"Georgia"	"13"	"35-39 years"	"35-39"	705228
+	"Georgia"	"13"	"40-44 years"	"40-44"	667374
+	"Georgia"	"13"	"45-49 years"	"45-49"	718419
+	"Georgia"	"13"	"50-54 years"	"50-54"	693019
+	"Georgia"	"13"	"55-59 years"	"55-59"	682347
+	"Georgia"	"13"	"60-64 years "	"60-64"	603335
+	"Georgia"	"13"	"65-69 years"	"65-69"	500976
+	"Georgia"	"13"	"70-74 years"	"70-74"	394443
+	"Georgia"	"13"	"75-79 years"	"75-79"	259740
+	"Georgia"	"13"	"80-84 years"	"80-84"	158617
+	"Georgia"	"13"	"85+ years"	"85+"	146633
+"Total"	"Georgia"	"13"			10519475
+	"Hawaii"	"15"	"< 1 year"	"1"	17224
+	"Hawaii"	"15"	"1-4 years"	"1-4"	70480
+	"Hawaii"	"15"	"5-9 years"	"5-9"	86869
+	"Hawaii"	"15"	"10-14 years"	"10-14"	81954
+	"Hawaii"	"15"	"15-19 years"	"15-19"	77179
+	"Hawaii"	"15"	"20-24 years"	"20-24"	90951
+	"Hawaii"	"15"	"25-29 years"	"25-29"	103977
+	"Hawaii"	"15"	"30-34 years"	"30-34"	99029
+	"Hawaii"	"15"	"35-39 years"	"35-39"	96796
+	"Hawaii"	"15"	"40-44 years"	"40-44"	83714
+	"Hawaii"	"15"	"45-49 years"	"45-49"	85505
+	"Hawaii"	"15"	"50-54 years"	"50-54"	85119
+	"Hawaii"	"15"	"55-59 years"	"55-59"	90807
+	"Hawaii"	"15"	"60-64 years "	"60-64"	89920
+	"Hawaii"	"15"	"65-69 years"	"65-69"	82492
+	"Hawaii"	"15"	"70-74 years"	"70-74"	66441
+	"Hawaii"	"15"	"75-79 years"	"75-79"	42395
+	"Hawaii"	"15"	"80-84 years"	"80-84"	28595
+	"Hawaii"	"15"	"85+ years"	"85+"	41044
+"Total"	"Hawaii"	"15"			1420491
+	"Idaho"	"16"	"< 1 year"	"1"	22348
+	"Idaho"	"16"	"1-4 years"	"1-4"	93991
+	"Idaho"	"16"	"5-9 years"	"5-9"	122965
+	"Idaho"	"16"	"10-14 years"	"10-14"	131036
+	"Idaho"	"16"	"15-19 years"	"15-19"	124506
+	"Idaho"	"16"	"20-24 years"	"20-24"	114894
+	"Idaho"	"16"	"25-29 years"	"25-29"	119176
+	"Idaho"	"16"	"30-34 years"	"30-34"	112206
+	"Idaho"	"16"	"35-39 years"	"35-39"	115383
+	"Idaho"	"16"	"40-44 years"	"40-44"	104646
+	"Idaho"	"16"	"45-49 years"	"45-49"	101672
+	"Idaho"	"16"	"50-54 years"	"50-54"	98253
+	"Idaho"	"16"	"55-59 years"	"55-59"	108608
+	"Idaho"	"16"	"60-64 years "	"60-64"	106242
+	"Idaho"	"16"	"65-69 years"	"65-69"	94545
+	"Idaho"	"16"	"70-74 years"	"70-74"	73696
+	"Idaho"	"16"	"75-79 years"	"75-79"	50168
+	"Idaho"	"16"	"80-84 years"	"80-84"	30454
+	"Idaho"	"16"	"85+ years"	"85+"	29419
+"Total"	"Idaho"	"16"			1754208
+	"Illinois"	"17"	"< 1 year"	"1"	147623
+	"Illinois"	"17"	"1-4 years"	"1-4"	612996
+	"Illinois"	"17"	"5-9 years"	"5-9"	778102
+	"Illinois"	"17"	"10-14 years"	"10-14"	819148
+	"Illinois"	"17"	"15-19 years"	"15-19"	828205
+	"Illinois"	"17"	"20-24 years"	"20-24"	847502
+	"Illinois"	"17"	"25-29 years"	"25-29"	903780
+	"Illinois"	"17"	"30-34 years"	"30-34"	866001
+	"Illinois"	"17"	"35-39 years"	"35-39"	854521
+	"Illinois"	"17"	"40-44 years"	"40-44"	785204
+	"Illinois"	"17"	"45-49 years"	"45-49"	817893
+	"Illinois"	"17"	"50-54 years"	"50-54"	821957
+	"Illinois"	"17"	"55-59 years"	"55-59"	867598
+	"Illinois"	"17"	"60-64 years "	"60-64"	797589
+	"Illinois"	"17"	"65-69 years"	"65-69"	649574
+	"Illinois"	"17"	"70-74 years"	"70-74"	492679
+	"Illinois"	"17"	"75-79 years"	"75-79"	348421
+	"Illinois"	"17"	"80-84 years"	"80-84"	235613
+	"Illinois"	"17"	"85+ years"	"85+"	266674
+"Total"	"Illinois"	"17"			12741080
+	"Indiana"	"18"	"< 1 year"	"1"	80539
+	"Indiana"	"18"	"1-4 years"	"1-4"	338005
+	"Indiana"	"18"	"5-9 years"	"5-9"	430106
+	"Indiana"	"18"	"10-14 years"	"10-14"	448590
+	"Indiana"	"18"	"15-19 years"	"15-19"	455653
+	"Indiana"	"18"	"20-24 years"	"20-24"	471214
+	"Indiana"	"18"	"25-29 years"	"25-29"	458859
+	"Indiana"	"18"	"30-34 years"	"30-34"	418579
+	"Indiana"	"18"	"35-39 years"	"35-39"	425918
+	"Indiana"	"18"	"40-44 years"	"40-44"	396284
+	"Indiana"	"18"	"45-49 years"	"45-49"	419086
+	"Indiana"	"18"	"50-54 years"	"50-54"	420738
+	"Indiana"	"18"	"55-59 years"	"55-59"	450922
+	"Indiana"	"18"	"60-64 years "	"60-64"	422364
+	"Indiana"	"18"	"65-69 years"	"65-69"	350525
+	"Indiana"	"18"	"70-74 years"	"70-74"	265056
+	"Indiana"	"18"	"75-79 years"	"75-79"	185913
+	"Indiana"	"18"	"80-84 years"	"80-84"	122717
+	"Indiana"	"18"	"85+ years"	"85+"	130810
+"Total"	"Indiana"	"18"			6691878
+	"Iowa"	"19"	"< 1 year"	"1"	38291
+	"Iowa"	"19"	"1-4 years"	"1-4"	159927
+	"Iowa"	"19"	"5-9 years"	"5-9"	201115
+	"Iowa"	"19"	"10-14 years"	"10-14"	208564
+	"Iowa"	"19"	"15-19 years"	"15-19"	214122
+	"Iowa"	"19"	"20-24 years"	"20-24"	227778
+	"Iowa"	"19"	"25-29 years"	"25-29"	204286
+	"Iowa"	"19"	"30-34 years"	"30-34"	193429
+	"Iowa"	"19"	"35-39 years"	"35-39"	202104
+	"Iowa"	"19"	"40-44 years"	"40-44"	177831
+	"Iowa"	"19"	"45-49 years"	"45-49"	182267
+	"Iowa"	"19"	"50-54 years"	"50-54"	189064
+	"Iowa"	"19"	"55-59 years"	"55-59"	213907
+	"Iowa"	"19"	"60-64 years "	"60-64"	203630
+	"Iowa"	"19"	"65-69 years"	"65-69"	172693
+	"Iowa"	"19"	"70-74 years"	"70-74"	128180
+	"Iowa"	"19"	"75-79 years"	"75-79"	92687
+	"Iowa"	"19"	"80-84 years"	"80-84"	67179
+	"Iowa"	"19"	"85+ years"	"85+"	79091
+"Total"	"Iowa"	"19"			3156145
+	"Kansas"	"20"	"< 1 year"	"1"	36439
+	"Kansas"	"20"	"1-4 years"	"1-4"	152896
+	"Kansas"	"20"	"5-9 years"	"5-9"	197621
+	"Kansas"	"20"	"10-14 years"	"10-14"	200446
+	"Kansas"	"20"	"15-19 years"	"15-19"	200274
+	"Kansas"	"20"	"20-24 years"	"20-24"	213020
+	"Kansas"	"20"	"25-29 years"	"25-29"	195035
+	"Kansas"	"20"	"30-34 years"	"30-34"	187849
+	"Kansas"	"20"	"35-39 years"	"35-39"	189972
+	"Kansas"	"20"	"40-44 years"	"40-44"	166350
+	"Kansas"	"20"	"45-49 years"	"45-49"	166989
+	"Kansas"	"20"	"50-54 years"	"50-54"	168948
+	"Kansas"	"20"	"55-59 years"	"55-59"	191689
+	"Kansas"	"20"	"60-64 years "	"60-64"	181736
+	"Kansas"	"20"	"65-69 years"	"65-69"	150262
+	"Kansas"	"20"	"70-74 years"	"70-74"	112595
+	"Kansas"	"20"	"75-79 years"	"75-79"	78411
+	"Kansas"	"20"	"80-84 years"	"80-84"	55437
+	"Kansas"	"20"	"85+ years"	"85+"	65536
+"Total"	"Kansas"	"20"			2911505
+	"Kentucky"	"21"	"< 1 year"	"1"	53557
+	"Kentucky"	"21"	"1-4 years"	"1-4"	221855
+	"Kentucky"	"21"	"5-9 years"	"5-9"	276726
+	"Kentucky"	"21"	"10-14 years"	"10-14"	285788
+	"Kentucky"	"21"	"15-19 years"	"15-19"	287105
+	"Kentucky"	"21"	"20-24 years"	"20-24"	301530
+	"Kentucky"	"21"	"25-29 years"	"25-29"	310326
+	"Kentucky"	"21"	"30-34 years"	"30-34"	274781
+	"Kentucky"	"21"	"35-39 years"	"35-39"	283045
+	"Kentucky"	"21"	"40-44 years"	"40-44"	268904
+	"Kentucky"	"21"	"45-49 years"	"45-49"	285632
+	"Kentucky"	"21"	"50-54 years"	"50-54"	291182
+	"Kentucky"	"21"	"55-59 years"	"55-59"	307881
+	"Kentucky"	"21"	"60-64 years "	"60-64"	289464
+	"Kentucky"	"21"	"65-69 years"	"65-69"	245059
+	"Kentucky"	"21"	"70-74 years"	"70-74"	190146
+	"Kentucky"	"21"	"75-79 years"	"75-79"	130899
+	"Kentucky"	"21"	"80-84 years"	"80-84"	83904
+	"Kentucky"	"21"	"85+ years"	"85+"	80618
+"Total"	"Kentucky"	"21"			4468402
+	"Louisiana"	"22"	"< 1 year"	"1"	59755
+	"Louisiana"	"22"	"1-4 years"	"1-4"	247264
+	"Louisiana"	"22"	"5-9 years"	"5-9"	301567
+	"Louisiana"	"22"	"10-14 years"	"10-14"	307358
+	"Louisiana"	"22"	"15-19 years"	"15-19"	296013
+	"Louisiana"	"22"	"20-24 years"	"20-24"	309308
+	"Louisiana"	"22"	"25-29 years"	"25-29"	343819
+	"Louisiana"	"22"	"30-34 years"	"30-34"	323363
+	"Louisiana"	"22"	"35-39 years"	"35-39"	313687
+	"Louisiana"	"22"	"40-44 years"	"40-44"	269839
+	"Louisiana"	"22"	"45-49 years"	"45-49"	275446
+	"Louisiana"	"22"	"50-54 years"	"50-54"	287860
+	"Louisiana"	"22"	"55-59 years"	"55-59"	312333
+	"Louisiana"	"22"	"60-64 years "	"60-64"	293933
+	"Louisiana"	"22"	"65-69 years"	"65-69"	242885
+	"Louisiana"	"22"	"70-74 years"	"70-74"	185061
+	"Louisiana"	"22"	"75-79 years"	"75-79"	126634
+	"Louisiana"	"22"	"80-84 years"	"80-84"	82803
+	"Louisiana"	"22"	"85+ years"	"85+"	81050
+"Total"	"Louisiana"	"22"			4659978
+	"Maine"	"23"	"< 1 year"	"1"	12409
+	"Maine"	"23"	"1-4 years"	"1-4"	51873
+	"Maine"	"23"	"5-9 years"	"5-9"	67596
+	"Maine"	"23"	"10-14 years"	"10-14"	73235
+	"Maine"	"23"	"15-19 years"	"15-19"	77391
+	"Maine"	"23"	"20-24 years"	"20-24"	75024
+	"Maine"	"23"	"25-29 years"	"25-29"	80641
+	"Maine"	"23"	"30-34 years"	"30-34"	79699
+	"Maine"	"23"	"35-39 years"	"35-39"	78163
+	"Maine"	"23"	"40-44 years"	"40-44"	74220
+	"Maine"	"23"	"45-49 years"	"45-49"	85710
+	"Maine"	"23"	"50-54 years"	"50-54"	94463
+	"Maine"	"23"	"55-59 years"	"55-59"	107152
+	"Maine"	"23"	"60-64 years "	"60-64"	104829
+	"Maine"	"23"	"65-69 years"	"65-69"	91727
+	"Maine"	"23"	"70-74 years"	"70-74"	71640
+	"Maine"	"23"	"75-79 years"	"75-79"	47585
+	"Maine"	"23"	"80-84 years"	"80-84"	31628
+	"Maine"	"23"	"85+ years"	"85+"	33419
+"Total"	"Maine"	"23"			1338404
+	"Maryland"	"24"	"< 1 year"	"1"	70843
+	"Maryland"	"24"	"1-4 years"	"1-4"	293661
+	"Maryland"	"24"	"5-9 years"	"5-9"	370444
+	"Maryland"	"24"	"10-14 years"	"10-14"	378506
+	"Maryland"	"24"	"15-19 years"	"15-19"	381504
+	"Maryland"	"24"	"20-24 years"	"20-24"	376550
+	"Maryland"	"24"	"25-29 years"	"25-29"	418434
+	"Maryland"	"24"	"30-34 years"	"30-34"	416178
+	"Maryland"	"24"	"35-39 years"	"35-39"	407402
+	"Maryland"	"24"	"40-44 years"	"40-44"	366399
+	"Maryland"	"24"	"45-49 years"	"45-49"	397341
+	"Maryland"	"24"	"50-54 years"	"50-54"	421586
+	"Maryland"	"24"	"55-59 years"	"55-59"	432313
+	"Maryland"	"24"	"60-64 years "	"60-64"	380421
+	"Maryland"	"24"	"65-69 years"	"65-69"	307278
+	"Maryland"	"24"	"70-74 years"	"70-74"	238174
+	"Maryland"	"24"	"75-79 years"	"75-79"	162850
+	"Maryland"	"24"	"80-84 years"	"80-84"	104431
+	"Maryland"	"24"	"85+ years"	"85+"	118403
+"Total"	"Maryland"	"24"			6042718
+	"Massachusetts"	"25"	"< 1 year"	"1"	70787
+	"Massachusetts"	"25"	"1-4 years"	"1-4"	289374
+	"Massachusetts"	"25"	"5-9 years"	"5-9"	370010
+	"Massachusetts"	"25"	"10-14 years"	"10-14"	389142
+	"Massachusetts"	"25"	"15-19 years"	"15-19"	455406
+	"Massachusetts"	"25"	"20-24 years"	"20-24"	494067
+	"Massachusetts"	"25"	"25-29 years"	"25-29"	507860
+	"Massachusetts"	"25"	"30-34 years"	"30-34"	485053
+	"Massachusetts"	"25"	"35-39 years"	"35-39"	440081
+	"Massachusetts"	"25"	"40-44 years"	"40-44"	400571
+	"Massachusetts"	"25"	"45-49 years"	"45-49"	443793
+	"Massachusetts"	"25"	"50-54 years"	"50-54"	477738
+	"Massachusetts"	"25"	"55-59 years"	"55-59"	492474
+	"Massachusetts"	"25"	"60-64 years "	"60-64"	446693
+	"Massachusetts"	"25"	"65-69 years"	"65-69"	367250
+	"Massachusetts"	"25"	"70-74 years"	"70-74"	286579
+	"Massachusetts"	"25"	"75-79 years"	"75-79"	193337
+	"Massachusetts"	"25"	"80-84 years"	"80-84"	132082
+	"Massachusetts"	"25"	"85+ years"	"85+"	159852
+"Total"	"Massachusetts"	"25"			6902149
+	"Michigan"	"26"	"< 1 year"	"1"	110301
+	"Michigan"	"26"	"1-4 years"	"1-4"	461862
+	"Michigan"	"26"	"5-9 years"	"5-9"	586648
+	"Michigan"	"26"	"10-14 years"	"10-14"	619422
+	"Michigan"	"26"	"15-19 years"	"15-19"	653747
+	"Michigan"	"26"	"20-24 years"	"20-24"	694627
+	"Michigan"	"26"	"25-29 years"	"25-29"	694454
+	"Michigan"	"26"	"30-34 years"	"30-34"	602197
+	"Michigan"	"26"	"35-39 years"	"35-39"	599690
+	"Michigan"	"26"	"40-44 years"	"40-44"	563499
+	"Michigan"	"26"	"45-49 years"	"45-49"	629912
+	"Michigan"	"26"	"50-54 years"	"50-54"	660148
+	"Michigan"	"26"	"55-59 years"	"55-59"	716278
+	"Michigan"	"26"	"60-64 years "	"60-64"	686526
+	"Michigan"	"26"	"65-69 years"	"65-69"	571956
+	"Michigan"	"26"	"70-74 years"	"70-74"	432746
+	"Michigan"	"26"	"75-79 years"	"75-79"	302102
+	"Michigan"	"26"	"80-84 years"	"80-84"	195814
+	"Michigan"	"26"	"85+ years"	"85+"	213986
+"Total"	"Michigan"	"26"			9995915
+	"Minnesota"	"27"	"< 1 year"	"1"	68566
+	"Minnesota"	"27"	"1-4 years"	"1-4"	286725
+	"Minnesota"	"27"	"5-9 years"	"5-9"	360434
+	"Minnesota"	"27"	"10-14 years"	"10-14"	370652
+	"Minnesota"	"27"	"15-19 years"	"15-19"	357809
+	"Minnesota"	"27"	"20-24 years"	"20-24"	360065
+	"Minnesota"	"27"	"25-29 years"	"25-29"	376534
+	"Minnesota"	"27"	"30-34 years"	"30-34"	384391
+	"Minnesota"	"27"	"35-39 years"	"35-39"	383690
+	"Minnesota"	"27"	"40-44 years"	"40-44"	326575
+	"Minnesota"	"27"	"45-49 years"	"45-49"	336922
+	"Minnesota"	"27"	"50-54 years"	"50-54"	354569
+	"Minnesota"	"27"	"55-59 years"	"55-59"	394922
+	"Minnesota"	"27"	"60-64 years "	"60-64"	359523
+	"Minnesota"	"27"	"65-69 years"	"65-69"	294482
+	"Minnesota"	"27"	"70-74 years"	"70-74"	215698
+	"Minnesota"	"27"	"75-79 years"	"75-79"	153154
+	"Minnesota"	"27"	"80-84 years"	"80-84"	104784
+	"Minnesota"	"27"	"85+ years"	"85+"	121684
+"Total"	"Minnesota"	"27"			5611179
+	"Mississippi"	"28"	"< 1 year"	"1"	35878
+	"Mississippi"	"28"	"1-4 years"	"1-4"	149599
+	"Mississippi"	"28"	"5-9 years"	"5-9"	192967
+	"Mississippi"	"28"	"10-14 years"	"10-14"	206927
+	"Mississippi"	"28"	"15-19 years"	"15-19"	205933
+	"Mississippi"	"28"	"20-24 years"	"20-24"	206761
+	"Mississippi"	"28"	"25-29 years"	"25-29"	209411
+	"Mississippi"	"28"	"30-34 years"	"30-34"	184895
+	"Mississippi"	"28"	"35-39 years"	"35-39"	189869
+	"Mississippi"	"28"	"40-44 years"	"40-44"	175129
+	"Mississippi"	"28"	"45-49 years"	"45-49"	184333
+	"Mississippi"	"28"	"50-54 years"	"50-54"	184460
+	"Mississippi"	"28"	"55-59 years"	"55-59"	198698
+	"Mississippi"	"28"	"60-64 years "	"60-64"	187195
+	"Mississippi"	"28"	"65-69 years"	"65-69"	157411
+	"Mississippi"	"28"	"70-74 years"	"70-74"	123174
+	"Mississippi"	"28"	"75-79 years"	"75-79"	85408
+	"Mississippi"	"28"	"80-84 years"	"80-84"	56141
+	"Mississippi"	"28"	"85+ years"	"85+"	52341
+"Total"	"Mississippi"	"28"			2986530
+	"Missouri"	"29"	"< 1 year"	"1"	72258
+	"Missouri"	"29"	"1-4 years"	"1-4"	300455
+	"Missouri"	"29"	"5-9 years"	"5-9"	377947
+	"Missouri"	"29"	"10-14 years"	"10-14"	391940
+	"Missouri"	"29"	"15-19 years"	"15-19"	391387
+	"Missouri"	"29"	"20-24 years"	"20-24"	409228
+	"Missouri"	"29"	"25-29 years"	"25-29"	426568
+	"Missouri"	"29"	"30-34 years"	"30-34"	396937
+	"Missouri"	"29"	"35-39 years"	"35-39"	394342
+	"Missouri"	"29"	"40-44 years"	"40-44"	350197
+	"Missouri"	"29"	"45-49 years"	"45-49"	369939
+	"Missouri"	"29"	"50-54 years"	"50-54"	381749
+	"Missouri"	"29"	"55-59 years"	"55-59"	430286
+	"Missouri"	"29"	"60-64 years "	"60-64"	399255
+	"Missouri"	"29"	"65-69 years"	"65-69"	332509
+	"Missouri"	"29"	"70-74 years"	"70-74"	260068
+	"Missouri"	"29"	"75-79 years"	"75-79"	185960
+	"Missouri"	"29"	"80-84 years"	"80-84"	123543
+	"Missouri"	"29"	"85+ years"	"85+"	131884
+"Total"	"Missouri"	"29"			6126452
+	"Montana"	"30"	"< 1 year"	"1"	12099
+	"Montana"	"30"	"1-4 years"	"1-4"	50437
+	"Montana"	"30"	"5-9 years"	"5-9"	63526
+	"Montana"	"30"	"10-14 years"	"10-14"	65281
+	"Montana"	"30"	"15-19 years"	"15-19"	64023
+	"Montana"	"30"	"20-24 years"	"20-24"	72513
+	"Montana"	"30"	"25-29 years"	"25-29"	71120
+	"Montana"	"30"	"30-34 years"	"30-34"	66343
+	"Montana"	"30"	"35-39 years"	"35-39"	67394
+	"Montana"	"30"	"40-44 years"	"40-44"	59002
+	"Montana"	"30"	"45-49 years"	"45-49"	58886
+	"Montana"	"30"	"50-54 years"	"50-54"	61392
+	"Montana"	"30"	"55-59 years"	"55-59"	74523
+	"Montana"	"30"	"60-64 years "	"60-64"	76864
+	"Montana"	"30"	"65-69 years"	"65-69"	68722
+	"Montana"	"30"	"70-74 years"	"70-74"	50861
+	"Montana"	"30"	"75-79 years"	"75-79"	34678
+	"Montana"	"30"	"80-84 years"	"80-84"	21946
+	"Montana"	"30"	"85+ years"	"85+"	22695
+"Total"	"Montana"	"30"			1062305
+	"Nebraska"	"31"	"< 1 year"	"1"	25809
+	"Nebraska"	"31"	"1-4 years"	"1-4"	107159
+	"Nebraska"	"31"	"5-9 years"	"5-9"	132340
+	"Nebraska"	"31"	"10-14 years"	"10-14"	133482
+	"Nebraska"	"31"	"15-19 years"	"15-19"	131579
+	"Nebraska"	"31"	"20-24 years"	"20-24"	137180
+	"Nebraska"	"31"	"25-29 years"	"25-29"	128475
+	"Nebraska"	"31"	"30-34 years"	"30-34"	127248
+	"Nebraska"	"31"	"35-39 years"	"35-39"	128339
+	"Nebraska"	"31"	"40-44 years"	"40-44"	110972
+	"Nebraska"	"31"	"45-49 years"	"45-49"	109690
+	"Nebraska"	"31"	"50-54 years"	"50-54"	110281
+	"Nebraska"	"31"	"55-59 years"	"55-59"	125547
+	"Nebraska"	"31"	"60-64 years "	"60-64"	117501
+	"Nebraska"	"31"	"65-69 years"	"65-69"	99312
+	"Nebraska"	"31"	"70-74 years"	"70-74"	73215
+	"Nebraska"	"31"	"75-79 years"	"75-79"	51194
+	"Nebraska"	"31"	"80-84 years"	"80-84"	36867
+	"Nebraska"	"31"	"85+ years"	"85+"	43078
+"Total"	"Nebraska"	"31"			1929268
+	"Nevada"	"32"	"< 1 year"	"1"	35781
+	"Nevada"	"32"	"1-4 years"	"1-4"	150214
+	"Nevada"	"32"	"5-9 years"	"5-9"	191607
+	"Nevada"	"32"	"10-14 years"	"10-14"	197022
+	"Nevada"	"32"	"15-19 years"	"15-19"	181098
+	"Nevada"	"32"	"20-24 years"	"20-24"	182064
+	"Nevada"	"32"	"25-29 years"	"25-29"	227464
+	"Nevada"	"32"	"30-34 years"	"30-34"	217908
+	"Nevada"	"32"	"35-39 years"	"35-39"	210838
+	"Nevada"	"32"	"40-44 years"	"40-44"	192315
+	"Nevada"	"32"	"45-49 years"	"45-49"	201625
+	"Nevada"	"32"	"50-54 years"	"50-54"	193714
+	"Nevada"	"32"	"55-59 years"	"55-59"	194281
+	"Nevada"	"32"	"60-64 years "	"60-64"	182280
+	"Nevada"	"32"	"65-69 years"	"65-69"	160427
+	"Nevada"	"32"	"70-74 years"	"70-74"	132825
+	"Nevada"	"32"	"75-79 years"	"75-79"	88212
+	"Nevada"	"32"	"80-84 years"	"80-84"	51355
+	"Nevada"	"32"	"85+ years"	"85+"	43362
+"Total"	"Nevada"	"32"			3034392
+	"New Hampshire"	"33"	"< 1 year"	"1"	12217
+	"New Hampshire"	"33"	"1-4 years"	"1-4"	51803
+	"New Hampshire"	"33"	"5-9 years"	"5-9"	69360
+	"New Hampshire"	"33"	"10-14 years"	"10-14"	76114
+	"New Hampshire"	"33"	"15-19 years"	"15-19"	85131
+	"New Hampshire"	"33"	"20-24 years"	"20-24"	89682
+	"New Hampshire"	"33"	"25-29 years"	"25-29"	85844
+	"New Hampshire"	"33"	"30-34 years"	"30-34"	83231
+	"New Hampshire"	"33"	"35-39 years"	"35-39"	79847
+	"New Hampshire"	"33"	"40-44 years"	"40-44"	74827
+	"New Hampshire"	"33"	"45-49 years"	"45-49"	89868
+	"New Hampshire"	"33"	"50-54 years"	"50-54"	100374
+	"New Hampshire"	"33"	"55-59 years"	"55-59"	110921
+	"New Hampshire"	"33"	"60-64 years "	"60-64"	101594
+	"New Hampshire"	"33"	"65-69 years"	"65-69"	82879
+	"New Hampshire"	"33"	"70-74 years"	"70-74"	64054
+	"New Hampshire"	"33"	"75-79 years"	"75-79"	41515
+	"New Hampshire"	"33"	"80-84 years"	"80-84"	26709
+	"New Hampshire"	"33"	"85+ years"	"85+"	30488
+"Total"	"New Hampshire"	"33"			1356458
+	"New Jersey"	"34"	"< 1 year"	"1"	100364
+	"New Jersey"	"34"	"1-4 years"	"1-4"	418264
+	"New Jersey"	"34"	"5-9 years"	"5-9"	533562
+	"New Jersey"	"34"	"10-14 years"	"10-14"	558614
+	"New Jersey"	"34"	"15-19 years"	"15-19"	557815
+	"New Jersey"	"34"	"20-24 years"	"20-24"	551030
+	"New Jersey"	"34"	"25-29 years"	"25-29"	583053
+	"New Jersey"	"34"	"30-34 years"	"30-34"	572786
+	"New Jersey"	"34"	"35-39 years"	"35-39"	581487
+	"New Jersey"	"34"	"40-44 years"	"40-44"	557813
+	"New Jersey"	"34"	"45-49 years"	"45-49"	602340
+	"New Jersey"	"34"	"50-54 years"	"50-54"	633534
+	"New Jersey"	"34"	"55-59 years"	"55-59"	646773
+	"New Jersey"	"34"	"60-64 years "	"60-64"	572558
+	"New Jersey"	"34"	"65-69 years"	"65-69"	451916
+	"New Jersey"	"34"	"70-74 years"	"70-74"	358182
+	"New Jersey"	"34"	"75-79 years"	"75-79"	253635
+	"New Jersey"	"34"	"80-84 years"	"80-84"	172501
+	"New Jersey"	"34"	"85+ years"	"85+"	202293
+"Total"	"New Jersey"	"34"			8908520
+	"New Mexico"	"35"	"< 1 year"	"1"	23668
+	"New Mexico"	"35"	"1-4 years"	"1-4"	100578
+	"New Mexico"	"35"	"5-9 years"	"5-9"	134822
+	"New Mexico"	"35"	"10-14 years"	"10-14"	139941
+	"New Mexico"	"35"	"15-19 years"	"15-19"	139052
+	"New Mexico"	"35"	"20-24 years"	"20-24"	141547
+	"New Mexico"	"35"	"25-29 years"	"25-29"	145687
+	"New Mexico"	"35"	"30-34 years"	"30-34"	138148
+	"New Mexico"	"35"	"35-39 years"	"35-39"	133594
+	"New Mexico"	"35"	"40-44 years"	"40-44"	117190
+	"New Mexico"	"35"	"45-49 years"	"45-49"	119283
+	"New Mexico"	"35"	"50-54 years"	"50-54"	121582
+	"New Mexico"	"35"	"55-59 years"	"55-59"	139264
+	"New Mexico"	"35"	"60-64 years "	"60-64"	134883
+	"New Mexico"	"35"	"65-69 years"	"65-69"	121673
+	"New Mexico"	"35"	"70-74 years"	"70-74"	96211
+	"New Mexico"	"35"	"75-79 years"	"75-79"	64896
+	"New Mexico"	"35"	"80-84 years"	"80-84"	42238
+	"New Mexico"	"35"	"85+ years"	"85+"	41171
+"Total"	"New Mexico"	"35"			2095428
+	"New York"	"36"	"< 1 year"	"1"	227883
+	"New York"	"36"	"1-4 years"	"1-4"	912559
+	"New York"	"36"	"5-9 years"	"5-9"	1119326
+	"New York"	"36"	"10-14 years"	"10-14"	1117870
+	"New York"	"36"	"15-19 years"	"15-19"	1188292
+	"New York"	"36"	"20-24 years"	"20-24"	1302338
+	"New York"	"36"	"25-29 years"	"25-29"	1485577
+	"New York"	"36"	"30-34 years"	"30-34"	1393216
+	"New York"	"36"	"35-39 years"	"35-39"	1273063
+	"New York"	"36"	"40-44 years"	"40-44"	1158801
+	"New York"	"36"	"45-49 years"	"45-49"	1240014
+	"New York"	"36"	"50-54 years"	"50-54"	1315115
+	"New York"	"36"	"55-59 years"	"55-59"	1358693
+	"New York"	"36"	"60-64 years "	"60-64"	1235928
+	"New York"	"36"	"65-69 years"	"65-69"	1017063
+	"New York"	"36"	"70-74 years"	"70-74"	792057
+	"New York"	"36"	"75-79 years"	"75-79"	559571
+	"New York"	"36"	"80-84 years"	"80-84"	388524
+	"New York"	"36"	"85+ years"	"85+"	456319
+"Total"	"New York"	"36"			19542209
+	"North Carolina"	"37"	"< 1 year"	"1"	118550
+	"North Carolina"	"37"	"1-4 years"	"1-4"	491578
+	"North Carolina"	"37"	"5-9 years"	"5-9"	628094
+	"North Carolina"	"37"	"10-14 years"	"10-14"	664208
+	"North Carolina"	"37"	"15-19 years"	"15-19"	684178
+	"North Carolina"	"37"	"20-24 years"	"20-24"	697871
+	"North Carolina"	"37"	"25-29 years"	"25-29"	728562
+	"North Carolina"	"37"	"30-34 years"	"30-34"	664586
+	"North Carolina"	"37"	"35-39 years"	"35-39"	658604
+	"North Carolina"	"37"	"40-44 years"	"40-44"	637301
+	"North Carolina"	"37"	"45-49 years"	"45-49"	697294
+	"North Carolina"	"37"	"50-54 years"	"50-54"	680546
+	"North Carolina"	"37"	"55-59 years"	"55-59"	695970
+	"North Carolina"	"37"	"60-64 years "	"60-64"	647013
+	"North Carolina"	"37"	"65-69 years"	"65-69"	560023
+	"North Carolina"	"37"	"70-74 years"	"70-74"	450435
+	"North Carolina"	"37"	"75-79 years"	"75-79"	300671
+	"North Carolina"	"37"	"80-84 years"	"80-84"	192387
+	"North Carolina"	"37"	"85+ years"	"85+"	185749
+"Total"	"North Carolina"	"37"			10383620
+	"North Dakota"	"38"	"< 1 year"	"1"	10802
+	"North Dakota"	"38"	"1-4 years"	"1-4"	43893
+	"North Dakota"	"38"	"5-9 years"	"5-9"	50206
+	"North Dakota"	"38"	"10-14 years"	"10-14"	47648
+	"North Dakota"	"38"	"15-19 years"	"15-19"	47282
+	"North Dakota"	"38"	"20-24 years"	"20-24"	63579
+	"North Dakota"	"38"	"25-29 years"	"25-29"	61153
+	"North Dakota"	"38"	"30-34 years"	"30-34"	53647
+	"North Dakota"	"38"	"35-39 years"	"35-39"	49895
+	"North Dakota"	"38"	"40-44 years"	"40-44"	40507
+	"North Dakota"	"38"	"45-49 years"	"45-49"	39212
+	"North Dakota"	"38"	"50-54 years"	"50-54"	40793
+	"North Dakota"	"38"	"55-59 years"	"55-59"	48475
+	"North Dakota"	"38"	"60-64 years "	"60-64"	46348
+	"North Dakota"	"38"	"65-69 years"	"65-69"	37277
+	"North Dakota"	"38"	"70-74 years"	"70-74"	26945
+	"North Dakota"	"38"	"75-79 years"	"75-79"	18962
+	"North Dakota"	"38"	"80-84 years"	"80-84"	14657
+	"North Dakota"	"38"	"85+ years"	"85+"	18796
+"Total"	"North Dakota"	"38"			760077
+	"Ohio"	"39"	"< 1 year"	"1"	134002
+	"Ohio"	"39"	"1-4 years"	"1-4"	560787
+	"Ohio"	"39"	"5-9 years"	"5-9"	708148
+	"Ohio"	"39"	"10-14 years"	"10-14"	737787
+	"Ohio"	"39"	"15-19 years"	"15-19"	761897
+	"Ohio"	"39"	"20-24 years"	"20-24"	758902
+	"Ohio"	"39"	"25-29 years"	"25-29"	806886
+	"Ohio"	"39"	"30-34 years"	"30-34"	738394
+	"Ohio"	"39"	"35-39 years"	"35-39"	724205
+	"Ohio"	"39"	"40-44 years"	"40-44"	666987
+	"Ohio"	"39"	"45-49 years"	"45-49"	732526
+	"Ohio"	"39"	"50-54 years"	"50-54"	752351
+	"Ohio"	"39"	"55-59 years"	"55-59"	821402
+	"Ohio"	"39"	"60-64 years "	"60-64"	790146
+	"Ohio"	"39"	"65-69 years"	"65-69"	655007
+	"Ohio"	"39"	"70-74 years"	"70-74"	495368
+	"Ohio"	"39"	"75-79 years"	"75-79"	349819
+	"Ohio"	"39"	"80-84 years"	"80-84"	238491
+	"Ohio"	"39"	"85+ years"	"85+"	256337
+"Total"	"Ohio"	"39"			11689442
+	"Oklahoma"	"40"	"< 1 year"	"1"	50353
+	"Oklahoma"	"40"	"1-4 years"	"1-4"	210076
+	"Oklahoma"	"40"	"5-9 years"	"5-9"	267797
+	"Oklahoma"	"40"	"10-14 years"	"10-14"	270110
+	"Oklahoma"	"40"	"15-19 years"	"15-19"	264140
+	"Oklahoma"	"40"	"20-24 years"	"20-24"	273690
+	"Oklahoma"	"40"	"25-29 years"	"25-29"	280849
+	"Oklahoma"	"40"	"30-34 years"	"30-34"	262369
+	"Oklahoma"	"40"	"35-39 years"	"35-39"	261410
+	"Oklahoma"	"40"	"40-44 years"	"40-44"	228978
+	"Oklahoma"	"40"	"45-49 years"	"45-49"	232318
+	"Oklahoma"	"40"	"50-54 years"	"50-54"	227992
+	"Oklahoma"	"40"	"55-59 years"	"55-59"	255026
+	"Oklahoma"	"40"	"60-64 years "	"60-64"	238418
+	"Oklahoma"	"40"	"65-69 years"	"65-69"	199427
+	"Oklahoma"	"40"	"70-74 years"	"70-74"	159219
+	"Oklahoma"	"40"	"75-79 years"	"75-79"	112935
+	"Oklahoma"	"40"	"80-84 years"	"80-84"	74776
+	"Oklahoma"	"40"	"85+ years"	"85+"	73196
+"Total"	"Oklahoma"	"40"			3943079
+	"Oregon"	"41"	"< 1 year"	"1"	45259
+	"Oregon"	"41"	"1-4 years"	"1-4"	188955
+	"Oregon"	"41"	"5-9 years"	"5-9"	242575
+	"Oregon"	"41"	"10-14 years"	"10-14"	249214
+	"Oregon"	"41"	"15-19 years"	"15-19"	246835
+	"Oregon"	"41"	"20-24 years"	"20-24"	265773
+	"Oregon"	"41"	"25-29 years"	"25-29"	302744
+	"Oregon"	"41"	"30-34 years"	"30-34"	293741
+	"Oregon"	"41"	"35-39 years"	"35-39"	294348
+	"Oregon"	"41"	"40-44 years"	"40-44"	265419
+	"Oregon"	"41"	"45-49 years"	"45-49"	264308
+	"Oregon"	"41"	"50-54 years"	"50-54"	248366
+	"Oregon"	"41"	"55-59 years"	"55-59"	270029
+	"Oregon"	"41"	"60-64 years "	"60-64"	274456
+	"Oregon"	"41"	"65-69 years"	"65-69"	253268
+	"Oregon"	"41"	"70-74 years"	"70-74"	194924
+	"Oregon"	"41"	"75-79 years"	"75-79"	127826
+	"Oregon"	"41"	"80-84 years"	"80-84"	78648
+	"Oregon"	"41"	"85+ years"	"85+"	84025
+"Total"	"Oregon"	"41"			4190713
+	"Pennsylvania"	"42"	"< 1 year"	"1"	135446
+	"Pennsylvania"	"42"	"1-4 years"	"1-4"	567551
+	"Pennsylvania"	"42"	"5-9 years"	"5-9"	725614
+	"Pennsylvania"	"42"	"10-14 years"	"10-14"	755233
+	"Pennsylvania"	"42"	"15-19 years"	"15-19"	810300
+	"Pennsylvania"	"42"	"20-24 years"	"20-24"	815049
+	"Pennsylvania"	"42"	"25-29 years"	"25-29"	870748
+	"Pennsylvania"	"42"	"30-34 years"	"30-34"	830358
+	"Pennsylvania"	"42"	"35-39 years"	"35-39"	782766
+	"Pennsylvania"	"42"	"40-44 years"	"40-44"	715779
+	"Pennsylvania"	"42"	"45-49 years"	"45-49"	797593
+	"Pennsylvania"	"42"	"50-54 years"	"50-54"	855188
+	"Pennsylvania"	"42"	"55-59 years"	"55-59"	921795
+	"Pennsylvania"	"42"	"60-64 years "	"60-64"	888010
+	"Pennsylvania"	"42"	"65-69 years"	"65-69"	737898
+	"Pennsylvania"	"42"	"70-74 years"	"70-74"	572852
+	"Pennsylvania"	"42"	"75-79 years"	"75-79"	407338
+	"Pennsylvania"	"42"	"80-84 years"	"80-84"	283299
+	"Pennsylvania"	"42"	"85+ years"	"85+"	334243
+"Total"	"Pennsylvania"	"42"			12807060
+	"Rhode Island"	"44"	"< 1 year"	"1"	10557
+	"Rhode Island"	"44"	"1-4 years"	"1-4"	43856
+	"Rhode Island"	"44"	"5-9 years"	"5-9"	54840
+	"Rhode Island"	"44"	"10-14 years"	"10-14"	58821
+	"Rhode Island"	"44"	"15-19 years"	"15-19"	71426
+	"Rhode Island"	"44"	"20-24 years"	"20-24"	76616
+	"Rhode Island"	"44"	"25-29 years"	"25-29"	76369
+	"Rhode Island"	"44"	"30-34 years"	"30-34"	69862
+	"Rhode Island"	"44"	"35-39 years"	"35-39"	65405
+	"Rhode Island"	"44"	"40-44 years"	"40-44"	58781
+	"Rhode Island"	"44"	"45-49 years"	"45-49"	66143
+	"Rhode Island"	"44"	"50-54 years"	"50-54"	73227
+	"Rhode Island"	"44"	"55-59 years"	"55-59"	76974
+	"Rhode Island"	"44"	"60-64 years "	"60-64"	72184
+	"Rhode Island"	"44"	"65-69 years"	"65-69"	57725
+	"Rhode Island"	"44"	"70-74 years"	"70-74"	44870
+	"Rhode Island"	"44"	"75-79 years"	"75-79"	30741
+	"Rhode Island"	"44"	"80-84 years"	"80-84"	21066
+	"Rhode Island"	"44"	"85+ years"	"85+"	27852
+"Total"	"Rhode Island"	"44"			1057315
+	"South Carolina"	"45"	"< 1 year"	"1"	55932
+	"South Carolina"	"45"	"1-4 years"	"1-4"	236459
+	"South Carolina"	"45"	"5-9 years"	"5-9"	306255
+	"South Carolina"	"45"	"10-14 years"	"10-14"	319554
+	"South Carolina"	"45"	"15-19 years"	"15-19"	323894
+	"South Carolina"	"45"	"20-24 years"	"20-24"	332074
+	"South Carolina"	"45"	"25-29 years"	"25-29"	354451
+	"South Carolina"	"45"	"30-34 years"	"30-34"	319439
+	"South Carolina"	"45"	"35-39 years"	"35-39"	316074
+	"South Carolina"	"45"	"40-44 years"	"40-44"	295323
+	"South Carolina"	"45"	"45-49 years"	"45-49"	320122
+	"South Carolina"	"45"	"50-54 years"	"50-54"	326336
+	"South Carolina"	"45"	"55-59 years"	"55-59"	344755
+	"South Carolina"	"45"	"60-64 years "	"60-64"	333544
+	"South Carolina"	"45"	"65-69 years"	"65-69"	302279
+	"South Carolina"	"45"	"70-74 years"	"70-74"	247552
+	"South Carolina"	"45"	"75-79 years"	"75-79"	163274
+	"South Carolina"	"45"	"80-84 years"	"80-84"	97835
+	"South Carolina"	"45"	"85+ years"	"85+"	88975
+"Total"	"South Carolina"	"45"			5084127
+	"South Dakota"	"46"	"< 1 year"	"1"	12109
+	"South Dakota"	"46"	"1-4 years"	"1-4"	50023
+	"South Dakota"	"46"	"5-9 years"	"5-9"	60762
+	"South Dakota"	"46"	"10-14 years"	"10-14"	60882
+	"South Dakota"	"46"	"15-19 years"	"15-19"	57674
+	"South Dakota"	"46"	"20-24 years"	"20-24"	59585
+	"South Dakota"	"46"	"25-29 years"	"25-29"	58754
+	"South Dakota"	"46"	"30-34 years"	"30-34"	57341
+	"South Dakota"	"46"	"35-39 years"	"35-39"	56007
+	"South Dakota"	"46"	"40-44 years"	"40-44"	47902
+	"South Dakota"	"46"	"45-49 years"	"45-49"	47241
+	"South Dakota"	"46"	"50-54 years"	"50-54"	49840
+	"South Dakota"	"46"	"55-59 years"	"55-59"	59311
+	"South Dakota"	"46"	"60-64 years "	"60-64"	57950
+	"South Dakota"	"46"	"65-69 years"	"65-69"	50160
+	"South Dakota"	"46"	"70-74 years"	"70-74"	34890
+	"South Dakota"	"46"	"75-79 years"	"75-79"	23666
+	"South Dakota"	"46"	"80-84 years"	"80-84"	17147
+	"South Dakota"	"46"	"85+ years"	"85+"	20991
+"Total"	"South Dakota"	"46"			882235
+	"Tennessee"	"47"	"< 1 year"	"1"	78974
+	"Tennessee"	"47"	"1-4 years"	"1-4"	327600
+	"Tennessee"	"47"	"5-9 years"	"5-9"	412340
+	"Tennessee"	"47"	"10-14 years"	"10-14"	430114
+	"Tennessee"	"47"	"15-19 years"	"15-19"	425325
+	"Tennessee"	"47"	"20-24 years"	"20-24"	445657
+	"Tennessee"	"47"	"25-29 years"	"25-29"	492464
+	"Tennessee"	"47"	"30-34 years"	"30-34"	438603
+	"Tennessee"	"47"	"35-39 years"	"35-39"	432883
+	"Tennessee"	"47"	"40-44 years"	"40-44"	407384
+	"Tennessee"	"47"	"45-49 years"	"45-49"	442810
+	"Tennessee"	"47"	"50-54 years"	"50-54"	439985
+	"Tennessee"	"47"	"55-59 years"	"55-59"	456537
+	"Tennessee"	"47"	"60-64 years "	"60-64"	429637
+	"Tennessee"	"47"	"65-69 years"	"65-69"	366920
+	"Tennessee"	"47"	"70-74 years"	"70-74"	294682
+	"Tennessee"	"47"	"75-79 years"	"75-79"	201335
+	"Tennessee"	"47"	"80-84 years"	"80-84"	126698
+	"Tennessee"	"47"	"85+ years"	"85+"	120062
+"Total"	"Tennessee"	"47"			6770010
+	"Texas"	"48"	"< 1 year"	"1"	390665
+	"Texas"	"48"	"1-4 years"	"1-4"	1633461
+	"Texas"	"48"	"5-9 years"	"5-9"	2047747
+	"Texas"	"48"	"10-14 years"	"10-14"	2091419
+	"Texas"	"48"	"15-19 years"	"15-19"	2032343
+	"Texas"	"48"	"20-24 years"	"20-24"	1998543
+	"Texas"	"48"	"25-29 years"	"25-29"	2159807
+	"Texas"	"48"	"30-34 years"	"30-34"	2076521
+	"Texas"	"48"	"35-39 years"	"35-39"	2030827
+	"Texas"	"48"	"40-44 years"	"40-44"	1850945
+	"Texas"	"48"	"45-49 years"	"45-49"	1847367
+	"Texas"	"48"	"50-54 years"	"50-54"	1705590
+	"Texas"	"48"	"55-59 years"	"55-59"	1712901
+	"Texas"	"48"	"60-64 years "	"60-64"	1521389
+	"Texas"	"48"	"65-69 years"	"65-69"	1226455
+	"Texas"	"48"	"70-74 years"	"70-74"	940074
+	"Texas"	"48"	"75-79 years"	"75-79"	627316
+	"Texas"	"48"	"80-84 years"	"80-84"	407976
+	"Texas"	"48"	"85+ years"	"85+"	400499
+"Total"	"Texas"	"48"			28701845
+	"Utah"	"49"	"< 1 year"	"1"	50160
+	"Utah"	"49"	"1-4 years"	"1-4"	202844
+	"Utah"	"49"	"5-9 years"	"5-9"	259078
+	"Utah"	"49"	"10-14 years"	"10-14"	266799
+	"Utah"	"49"	"15-19 years"	"15-19"	248985
+	"Utah"	"49"	"20-24 years"	"20-24"	260906
+	"Utah"	"49"	"25-29 years"	"25-29"	247231
+	"Utah"	"49"	"30-34 years"	"30-34"	217677
+	"Utah"	"49"	"35-39 years"	"35-39"	231359
+	"Utah"	"49"	"40-44 years"	"40-44"	203255
+	"Utah"	"49"	"45-49 years"	"45-49"	172668
+	"Utah"	"49"	"50-54 years"	"50-54"	149505
+	"Utah"	"49"	"55-59 years"	"55-59"	155362
+	"Utah"	"49"	"60-64 years "	"60-64"	144798
+	"Utah"	"49"	"65-69 years"	"65-69"	119503
+	"Utah"	"49"	"70-74 years"	"70-74"	90368
+	"Utah"	"49"	"75-79 years"	"75-79"	62027
+	"Utah"	"49"	"80-84 years"	"80-84"	40804
+	"Utah"	"49"	"85+ years"	"85+"	37776
+"Total"	"Utah"	"49"			3161105
+	"Vermont"	"50"	"< 1 year"	"1"	5632
+	"Vermont"	"50"	"1-4 years"	"1-4"	24049
+	"Vermont"	"50"	"5-9 years"	"5-9"	31272
+	"Vermont"	"50"	"10-14 years"	"10-14"	33761
+	"Vermont"	"50"	"15-19 years"	"15-19"	42285
+	"Vermont"	"50"	"20-24 years"	"20-24"	46193
+	"Vermont"	"50"	"25-29 years"	"25-29"	37533
+	"Vermont"	"50"	"30-34 years"	"30-34"	36558
+	"Vermont"	"50"	"35-39 years"	"35-39"	36604
+	"Vermont"	"50"	"40-44 years"	"40-44"	33997
+	"Vermont"	"50"	"45-49 years"	"45-49"	38532
+	"Vermont"	"50"	"50-54 years"	"50-54"	42187
+	"Vermont"	"50"	"55-59 years"	"55-59"	48697
+	"Vermont"	"50"	"60-64 years "	"60-64"	47792
+	"Vermont"	"50"	"65-69 years"	"65-69"	41336
+	"Vermont"	"50"	"70-74 years"	"70-74"	31557
+	"Vermont"	"50"	"75-79 years"	"75-79"	20710
+	"Vermont"	"50"	"80-84 years"	"80-84"	13183
+	"Vermont"	"50"	"85+ years"	"85+"	14421
+"Total"	"Vermont"	"50"			626299
+	"Virginia"	"51"	"< 1 year"	"1"	99261
+	"Virginia"	"51"	"1-4 years"	"1-4"	411663
+	"Virginia"	"51"	"5-9 years"	"5-9"	514457
+	"Virginia"	"51"	"10-14 years"	"10-14"	528362
+	"Virginia"	"51"	"15-19 years"	"15-19"	542284
+	"Virginia"	"51"	"20-24 years"	"20-24"	578812
+	"Virginia"	"51"	"25-29 years"	"25-29"	604186
+	"Virginia"	"51"	"30-34 years"	"30-34"	586120
+	"Virginia"	"51"	"35-39 years"	"35-39"	578634
+	"Virginia"	"51"	"40-44 years"	"40-44"	526249
+	"Virginia"	"51"	"45-49 years"	"45-49"	558081
+	"Virginia"	"51"	"50-54 years"	"50-54"	567303
+	"Virginia"	"51"	"55-59 years"	"55-59"	583042
+	"Virginia"	"51"	"60-64 years "	"60-64"	523830
+	"Virginia"	"51"	"65-69 years"	"65-69"	432802
+	"Virginia"	"51"	"70-74 years"	"70-74"	346236
+	"Virginia"	"51"	"75-79 years"	"75-79"	235193
+	"Virginia"	"51"	"80-84 years"	"80-84"	149278
+	"Virginia"	"51"	"85+ years"	"85+"	151892
+"Total"	"Virginia"	"51"			8517685
+	"Washington"	"53"	"< 1 year"	"1"	90662
+	"Washington"	"53"	"1-4 years"	"1-4"	372039
+	"Washington"	"53"	"5-9 years"	"5-9"	466916
+	"Washington"	"53"	"10-14 years"	"10-14"	462802
+	"Washington"	"53"	"15-19 years"	"15-19"	447049
+	"Washington"	"53"	"20-24 years"	"20-24"	481263
+	"Washington"	"53"	"25-29 years"	"25-29"	589604
+	"Washington"	"53"	"30-34 years"	"30-34"	563753
+	"Washington"	"53"	"35-39 years"	"35-39"	536144
+	"Washington"	"53"	"40-44 years"	"40-44"	466725
+	"Washington"	"53"	"45-49 years"	"45-49"	474408
+	"Washington"	"53"	"50-54 years"	"50-54"	459123
+	"Washington"	"53"	"55-59 years"	"55-59"	491676
+	"Washington"	"53"	"60-64 years "	"60-64"	469195
+	"Washington"	"53"	"65-69 years"	"65-69"	401689
+	"Washington"	"53"	"70-74 years"	"70-74"	307119
+	"Washington"	"53"	"75-79 years"	"75-79"	198092
+	"Washington"	"53"	"80-84 years"	"80-84"	123949
+	"Washington"	"53"	"85+ years"	"85+"	133383
+"Total"	"Washington"	"53"			7535591
+	"West Virginia"	"54"	"< 1 year"	"1"	17871
+	"West Virginia"	"54"	"1-4 years"	"1-4"	77386
+	"West Virginia"	"54"	"5-9 years"	"5-9"	101043
+	"West Virginia"	"54"	"10-14 years"	"10-14"	104388
+	"West Virginia"	"54"	"15-19 years"	"15-19"	107227
+	"West Virginia"	"54"	"20-24 years"	"20-24"	113094
+	"West Virginia"	"54"	"25-29 years"	"25-29"	113614
+	"West Virginia"	"54"	"30-34 years"	"30-34"	101748
+	"West Virginia"	"54"	"35-39 years"	"35-39"	109230
+	"West Virginia"	"54"	"40-44 years"	"40-44"	107530
+	"West Virginia"	"54"	"45-49 years"	"45-49"	116488
+	"West Virginia"	"54"	"50-54 years"	"50-54"	117965
+	"West Virginia"	"54"	"55-59 years"	"55-59"	127758
+	"West Virginia"	"54"	"60-64 years "	"60-64"	130612
+	"West Virginia"	"54"	"65-69 years"	"65-69"	119700
+	"West Virginia"	"54"	"70-74 years"	"70-74"	93137
+	"West Virginia"	"54"	"75-79 years"	"75-79"	64373
+	"West Virginia"	"54"	"80-84 years"	"80-84"	42768
+	"West Virginia"	"54"	"85+ years"	"85+"	39900
+"Total"	"West Virginia"	"54"			1805832
+	"Wisconsin"	"55"	"< 1 year"	"1"	64588
+	"Wisconsin"	"55"	"1-4 years"	"1-4"	269794
+	"Wisconsin"	"55"	"5-9 years"	"5-9"	349799
+	"Wisconsin"	"55"	"10-14 years"	"10-14"	369348
+	"Wisconsin"	"55"	"15-19 years"	"15-19"	378418
+	"Wisconsin"	"55"	"20-24 years"	"20-24"	395921
+	"Wisconsin"	"55"	"25-29 years"	"25-29"	374435
+	"Wisconsin"	"55"	"30-34 years"	"30-34"	362942
+	"Wisconsin"	"55"	"35-39 years"	"35-39"	371797
+	"Wisconsin"	"55"	"40-44 years"	"40-44"	332919
+	"Wisconsin"	"55"	"45-49 years"	"45-49"	352344
+	"Wisconsin"	"55"	"50-54 years"	"50-54"	385213
+	"Wisconsin"	"55"	"55-59 years"	"55-59"	425757
+	"Wisconsin"	"55"	"60-64 years "	"60-64"	394820
+	"Wisconsin"	"55"	"65-69 years"	"65-69"	329181
+	"Wisconsin"	"55"	"70-74 years"	"70-74"	242442
+	"Wisconsin"	"55"	"75-79 years"	"75-79"	169120
+	"Wisconsin"	"55"	"80-84 years"	"80-84"	116094
+	"Wisconsin"	"55"	"85+ years"	"85+"	128636
+"Total"	"Wisconsin"	"55"			5813568
+	"Wyoming"	"56"	"< 1 year"	"1"	6823
+	"Wyoming"	"56"	"1-4 years"	"1-4"	29089
+	"Wyoming"	"56"	"5-9 years"	"5-9"	37847
+	"Wyoming"	"56"	"10-14 years"	"10-14"	39104
+	"Wyoming"	"56"	"15-19 years"	"15-19"	36313
+	"Wyoming"	"56"	"20-24 years"	"20-24"	37966
+	"Wyoming"	"56"	"25-29 years"	"25-29"	38879
+	"Wyoming"	"56"	"30-34 years"	"30-34"	38899
+	"Wyoming"	"56"	"35-39 years"	"35-39"	39158
+	"Wyoming"	"56"	"40-44 years"	"40-44"	33555
+	"Wyoming"	"56"	"45-49 years"	"45-49"	32540
+	"Wyoming"	"56"	"50-54 years"	"50-54"	32340
+	"Wyoming"	"56"	"55-59 years"	"55-59"	39394
+	"Wyoming"	"56"	"60-64 years "	"60-64"	40455
+	"Wyoming"	"56"	"65-69 years"	"65-69"	33583
+	"Wyoming"	"56"	"70-74 years"	"70-74"	24585
+	"Wyoming"	"56"	"75-79 years"	"75-79"	16203
+	"Wyoming"	"56"	"80-84 years"	"80-84"	10323
+	"Wyoming"	"56"	"85+ years"	"85+"	10681
+"Total"	"Wyoming"	"56"			577737
+"Total"					327167434
+"---"
+"Dataset: Bridged-Race Population Estimates 1990-2018"
+"Query Parameters:"
+"Age Group: < 1 year; 1-4 years; 5-9 years; 10-14 years; 15-19 years; 20-24 years; 25-29 years; 30-34 years; 35-39 years; 40-44"
+"years; 45-49 years; 50-54 years; 55-59 years; 60-64 years ; 65-69 years; 70-74 years; 75-79 years; 80-84 years; 85+ years"
+"Ethnicity: Hispanic or Latino; Not Hispanic or Latino"
+"Race: American Indian or Alaska Native; Asian or Pacific Islander; Black or African American; White"
+"Yearly July 1st Estimates: 2018"
+"Group By: State; Age Group"
+"Show Totals: True"
+"Show Zero Values: False"
+"Data Table: Default"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/bridged-race.html for more information."
+"---"
+"Query Date: Jul 22, 2020 12:03:08 PM"
+"---"
+"Suggested Citation: United States Department of Health and Human Services (US DHHS), Centers for Disease Control and Prevention"
+"(CDC), National Center for Health Statistics (NCHS), Bridged-Race Population Estimates, United States July 1st resident"
+"population by state, county, age, sex, bridged-race, and Hispanic origin. Compiled from 1990-1999 bridged-race intercensal"
+"population estimates (released by NCHS on 7/26/2004); revised bridged-race 2000-2009 intercensal population estimates (released"
+"by NCHS on 10/26/2012); and bridged-race Vintage 2018 (2010-2018) postcensal population estimates (released by NCHS on"
+"6/25/2019). Available on CDC WONDER Online Database. Accessed at http://wonder.cdc.gov/bridged-race-v2018.html on Jul 22, 2020"
+"12:03:08 PM"
+"---"
+Footnotes:
+"1. Estimates for 1990-1999 are bridged-race intercensal population estimates of the July 1 resident population. Estimates for"
+"2000-2009 are revised bridged-race intercensal estimates of the July 1 resident population. Estimates for 2010-2018 are"
+"bridged-race Vintage 2018 postcensal estimates of the July 1 resident population. These estimates were prepared by the Census"
+"Bureau in collaboration with NCHS."
+"---"
+Caveats:

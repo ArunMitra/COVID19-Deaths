@@ -48,3 +48,6 @@ z-test p-value = 0 : *Null Hypothesis Rejected*
 
 ## Future questions: 
 Going forward, with the recent spikes in the southern/south-western states, is the disproportionate toll on Seniors, Blacks and Hispanics/LatinXs going to continue, despite increased public and government understanding of the above trends?
+
+## An apology: 
+I apologize, if despite my best efforts, the terminology used to refer to the various race/ethnic groups, and my segmentation choices, are insensitive to anyone. I welcome any feedback that would help to make me be better informed about this.

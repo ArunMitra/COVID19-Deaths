@@ -25,28 +25,21 @@ An analysis of COVID19 deaths in the USA by state, age group, ethnicity/race; co
   - Comparing working age adults (25-64) to seniors (65+), Americas seniors have paid a terrible price, both in absolute numbers and in per Million terms
 
 ## Hypotheses Tested and results: 
-$$ H_0 : \text{There is no difference in COVID-19 fatality rates between Blacks and Whites in the USA} $$ 
 
-$$ z-test p-value = 0 : H_0 \text{ is roundly rejected!} $$
+Null Hypothesis: There is no difference in COVID-19 fatality rates between **Blacks** and **Whites** in the USA
+z-test p-value = 0 : Null Hypothesis Rejected
 
-$$ H_0 : \text{There is no difference in COVID-19 fatality rates between Hispanics/LatinXs and Whites in the USA} $$
+Null Hypothesis: There is no difference in COVID-19 fatality rates between **Hispanics/LatinXs** and **Whites** in the USA
+z-test p-value = 0 : Null Hypothesis Rejected
 
-$$ z-test p-value = 0 : H_0 \text{ is roundly rejected!} $$
+Null Hypothesis: There is no difference in COVID-19 fatality rates between **Blacks** and **Hispanics/LatinXs** in the USA
+$z-test p-value = 0 : Null Hypothesis Rejected
 
-$$ H_0 : \text{There is no difference in COVID-19 fatality rates between Blacks and Hispanics/Latinos in the USA} $$
+Null Hypothesis: There is no difference in COVID-19 fatality rates between **Asians** and **American Indian/Alaskan Natives** in the USA
+z-test p-value = ? : (Results pending)
 
-$$ z-test p-value = 0 : H_0 \text{ is roundly rejected!} $$
-
-$$ H_0 : \text{There is no difference in COVID-19 fatality rates between Asians and American Indian/Alaskan Natives in the USA} $$
-
-$$ z-test p-value = ? : H_0 \text{ (results pending)} $$
-
-$$ H_0 : \text{There is no difference between COVID-19 fatality rates between working age adults and seniors in the USA} $$
-
-$$ z-test p-value = 0 : H_0 \text{ is roundly rejected!} $$
+Null Hypothesis: There is no difference between COVID-19 fatality rates between **Working age adults** and **Seniors** in the USA
+z-test p-value = 0 : Null Hypothesis Rejected
 
 ## Future questions: 
-  ### Going forward, with the recent spikes in the southern/south-western states, is the disproportionate toll on seniors, Blacks and Hispanics/LatinXs going to continue, despite increased understanding of the trends so far?} : \text{There is no difference in fatality rates between Non-Hispanic Blacks and Non-Hispanic Whites in the USA} $$
-
-$$ z-test p-value = 0 : H_0 \text{ is roundly rejected!} $$
-
+Going forward, with the recent spikes in the southern/south-western states, is the disproportionate toll on seniors, Blacks and Hispanics/LatinXs going to continue, despite increased public and government understanding of the above trends?

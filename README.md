@@ -47,4 +47,4 @@ z-test p-value = ? : (Results pending)
 z-test p-value = 0 : *Null Hypothesis Rejected*
 
 ## Future questions: 
-Going forward, with the recent spikes in the southern/south-western states, is the disproportionate toll on seniors, Blacks and Hispanics/LatinXs going to continue, despite increased public and government understanding of the above trends?
+Going forward, with the recent spikes in the southern/south-western states, is the disproportionate toll on Seniors, Blacks and Hispanics/LatinXs going to continue, despite increased public and government understanding of the above trends?

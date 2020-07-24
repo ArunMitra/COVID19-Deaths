@@ -1,9 +1,9 @@
-# COVID19 Deaths in the USA - A HEART-WRENCHING STORY
+# COVID19 Deaths in the USA - A heart-wrenching story of who bears the toll
 A quick analysis of COVID19 deaths in the USA by state, age group, ethnicity/race; considering USA census data 
 
 
 ## The question: 
-  ### If this horrible virus does not discriminate based on state, ethnicity/race or age should we see the death toll spread out evenly across these groups?
+  ### If this horrible virus does not discriminate based on state, ethnicity/race or age should we not see the death toll spread out evenly across these groups?
 
 ## The data: 
   - Deaths data from *Health.gov* (https://healthdata.gov/dataset/deaths-involving-coronavirus-disease-2019-covid-19-race-and-hispanic-origin-group-and-age) 

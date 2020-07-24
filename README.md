@@ -1,5 +1,5 @@
 # COVID19-Deaths-in-the-USA
-An analysis of COVID19 deaths in the USA by state, age group, ethnicity/race; considering USA census data 
+A quick analysis of COVID19 deaths in the USA by state, age group, ethnicity/race; considering USA census data 
 
 
 ## The question: 
@@ -26,20 +26,25 @@ An analysis of COVID19 deaths in the USA by state, age group, ethnicity/race; co
 
 ## Hypotheses Tested and results: 
 
-Null Hypothesis: There is no difference in COVID-19 fatality rates between **Blacks** and **Whites** in the USA
-z-test p-value = 0 : Null Hypothesis Rejected
+**Null Hypothesis**: There is no difference in COVID-19 fatality rates between **Blacks** and **Whites** in the USA
 
-Null Hypothesis: There is no difference in COVID-19 fatality rates between **Hispanics/LatinXs** and **Whites** in the USA
-z-test p-value = 0 : Null Hypothesis Rejected
+z-test p-value = 0 : *Null Hypothesis Rejected*
 
-Null Hypothesis: There is no difference in COVID-19 fatality rates between **Blacks** and **Hispanics/LatinXs** in the USA
-$z-test p-value = 0 : Null Hypothesis Rejected
+**Null Hypothesis**: There is no difference in COVID-19 fatality rates between **Hispanics/LatinXs** and **Whites** in the USA
 
-Null Hypothesis: There is no difference in COVID-19 fatality rates between **Asians** and **American Indian/Alaskan Natives** in the USA
+z-test p-value = 0 : *Null Hypothesis Rejected*
+
+**Null Hypothesis**: There is no difference in COVID-19 fatality rates between **Blacks** and **Hispanics/LatinXs** in the USA
+
+$z-test p-value = 0 : *Null Hypothesis Rejected*
+
+**Null Hypothesis**: There is no difference in COVID-19 fatality rates between **Asians** and **American Indian/Alaskan Natives** in the USA
+
 z-test p-value = ? : (Results pending)
 
-Null Hypothesis: There is no difference between COVID-19 fatality rates between **Working age adults** and **Seniors** in the USA
-z-test p-value = 0 : Null Hypothesis Rejected
+**Null Hypothesis**: There is no difference between COVID-19 fatality rates between **Working age adults** and **Seniors** in the USA
+
+z-test p-value = 0 : *Null Hypothesis Rejected*
 
 ## Future questions: 
 Going forward, with the recent spikes in the southern/south-western states, is the disproportionate toll on seniors, Blacks and Hispanics/LatinXs going to continue, despite increased public and government understanding of the above trends?

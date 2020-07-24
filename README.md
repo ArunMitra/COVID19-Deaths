@@ -1,4 +1,4 @@
-# COVID19 Deaths in the USA - A heart-wrenching story of who bears the toll
+# COVID-19 Deaths in the USA - A heart-wrenching story of who bears the toll
 A quick analysis of COVID19 deaths in the USA by state, age group, ethnicity/race; considering USA census data 
 
 

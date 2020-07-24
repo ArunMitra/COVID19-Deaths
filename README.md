@@ -1,4 +1,4 @@
-# COVID19-Deaths-in-the-USA
+# COVID19 Deaths in the USA - A HEART-WRENCHING STORY
 A quick analysis of COVID19 deaths in the USA by state, age group, ethnicity/race; considering USA census data 
 
 
